@@ -11,18 +11,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2022-07-15 15:13:17 +0300"
+    },
+    "done": true
+  },
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
       "beef": "2022-07-14 23:41:13 +0300",
+      "netherite_sword": "2022-07-15 15:14:00 +0300",
       "stick": "2022-07-14 23:53:26 +0300",
+      "netherite_ingot": "2022-07-15 15:13:58 +0300",
+      "netherite_helmet": "2022-07-15 15:13:57 +0300",
       "wheat_seeds": "2022-07-14 23:11:28 +0300",
       "mutton": "2022-07-14 23:12:02 +0300",
       "cocoa_beans": "2022-07-14 23:53:31 +0300",
+      "golden_carrot": "2022-07-15 15:14:20 +0300",
+      "sugar_cane": "2022-07-15 15:11:47 +0300",
       "feather": "2022-07-14 23:11:32 +0300",
       "leather": "2022-07-14 23:41:13 +0300",
+      "red_dye": "2022-07-15 15:13:17 +0300",
+      "netherite_boots": "2022-07-15 15:13:58 +0300",
       "acacia_boat": "2022-07-14 23:13:24 +0300",
       "chicken": "2022-07-14 23:11:32 +0300",
-      "sweet_berries": "2022-07-14 23:47:15 +0300"
+      "sweet_berries": "2022-07-14 23:47:15 +0300",
+      "netherite_leggings": "2022-07-15 15:13:58 +0300",
+      "netherite_chestplate": "2022-07-15 15:13:57 +0300"
     },
     "done": false
   },
@@ -53,6 +68,12 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2022-07-14 23:13:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-07-15 15:11:47 +0300"
     },
     "done": true
   },
@@ -89,6 +110,12 @@
   "blazeandcave:bacap/getting_wood": {
     "criteria": {
       "acacia_log": "2022-07-14 23:12:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
     },
     "done": true
   },
@@ -158,6 +185,12 @@
     },
     "done": true
   },
+  "blazeandcave:weaponry/root": {
+    "criteria": {
+      "sword": "2022-07-15 15:14:00 +0300"
+    },
+    "done": true
+  },
   "blazeandcave:building/the_acacia_king": {
     "criteria": {
       "acacia_planks": "2022-07-14 23:13:08 +0300",
@@ -165,6 +198,12 @@
       "acacia_log": "2022-07-14 23:12:41 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
@@ -182,6 +221,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-07-14 23:13:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2022-07-15 15:13:58 +0300"
     },
     "done": true
   },
@@ -221,6 +266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
+  },
   "blazeandcave:biomes/theres_a_zombie_on_the_lawn": {
     "criteria": {
       "sunflower_plains": "2022-07-14 23:20:17 +0300"
@@ -236,6 +287,18 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2022-07-14 23:12:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2022-07-15 15:13:17 +0300"
     },
     "done": true
   },
@@ -299,6 +362,26 @@
     },
     "done": false
   },
+  "blazeandcave:bacap/nether_milestone": {
+    "criteria": {
+      "a_knight_to_nether_forget": "2022-07-15 15:13:59 +0300",
+      "nether_say_die": "2022-07-15 15:13:59 +0300",
+      "diamonds_are_not_forever": "2022-07-15 15:13:59 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/high_feet": {
+    "criteria": {
+      "meadow": "2022-07-15 15:13:08 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
+  },
   "blazeandcave:building/root": {
     "criteria": {
       "crafting_table": "2022-07-14 23:13:16 +0300"
@@ -333,9 +416,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-07-14 23:12:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-07-15 15:11:47 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_strike": {
+    "criteria": {
+      "netherite_sword": "2022-07-15 15:14:00 +0300"
     },
     "done": true
   },
@@ -344,7 +445,8 @@
       "chicken": "2022-07-14 23:11:51 +0300",
       "sweet_berries": "2022-07-14 23:52:06 +0300",
       "beef": "2022-07-14 23:41:16 +0300",
-      "mutton": "2022-07-14 23:12:10 +0300"
+      "mutton": "2022-07-14 23:12:10 +0300",
+      "golden_carrot": "2022-07-15 15:14:38 +0300"
     },
     "done": false
   },
@@ -387,13 +489,20 @@
   },
   "blazeandcave:farming/vegetarian": {
     "criteria": {
-      "sweet_berries": "2022-07-14 23:52:06 +0300"
+      "sweet_berries": "2022-07-14 23:52:06 +0300",
+      "golden_carrot": "2022-07-15 15:14:38 +0300"
     },
     "done": false
   },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2022-07-14 23:12:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
     },
     "done": true
   },
@@ -446,9 +555,21 @@
     },
     "done": true
   },
+  "blazeandcave:monsters/root": {
+    "criteria": {
+      "sword": "2022-07-15 15:14:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-07-14 23:12:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
     },
     "done": true
   },
@@ -457,6 +578,12 @@
       "has_boat": "2022-07-14 23:13:24 +0300"
     },
     "done": true
+  },
+  "blazeandcave:bacap/monsters_milestone": {
+    "criteria": {
+      "root": "2022-07-15 15:14:01 +0300"
+    },
+    "done": false
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
@@ -492,6 +619,7 @@
       "sparse_jungle": "2022-07-14 23:13:58 +0300",
       "bamboo_jungle": "2022-07-14 23:17:09 +0300",
       "plains": "2022-07-14 23:13:56 +0300",
+      "meadow": "2022-07-15 15:13:08 +0300",
       "taiga": "2022-07-14 23:47:03 +0300",
       "beach": "2022-07-14 23:17:34 +0300",
       "river": "2022-07-14 23:13:43 +0300"
@@ -503,6 +631,12 @@
       "unbreaking1": "2022-07-14 23:20:17 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2022-07-15 15:13:17 +0300"
+    },
+    "done": true
   },
   "blazeandcave:technical/fail_dragon_vs": {
     "criteria": {
@@ -540,6 +674,12 @@
     },
     "done": true
   },
+  "blazeandcave:farming/a_gluttonous_diet": {
+    "criteria": {
+      "golden_carrot": "2022-07-15 15:14:20 +0300"
+    },
+    "done": false
+  },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
       "acacia_log": "2022-07-14 23:12:41 +0300",
@@ -547,6 +687,7 @@
       "white_wool": "2022-07-14 23:12:02 +0300",
       "acacia_planks": "2022-07-14 23:13:08 +0300",
       "gray_wool": "2022-07-14 23:12:03 +0300",
+      "ancient_debris": "2022-07-15 15:13:58 +0300",
       "sunflower": "2022-07-14 23:20:17 +0300",
       "mangrove_roots": "2022-07-14 23:18:52 +0300",
       "acacia_sapling": "2022-07-14 23:13:09 +0300",
@@ -557,6 +698,18 @@
       "crafting_table": "2022-07-14 23:13:16 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2022-07-15 15:13:17 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/sugar_sugar": {
+    "criteria": {
+      "sugar_cane": "2022-07-15 15:11:47 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
@@ -675,9 +828,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-07-14 23:09:29 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/spring_in_your_step": {
+    "criteria": {
+      "trigger": "2022-07-15 15:09:55 +0300"
     },
     "done": true
   },
@@ -687,8 +852,15 @@
     },
     "done": true
   },
+  "blazeandcave:nether/diamonds_are_not_forever": {
+    "criteria": {
+      "netherite_ingot": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
+  },
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
+      "spring_in_your_step": "2022-07-15 15:09:56 +0300",
       "the_first_night": "2022-07-14 16:46:42 +0300",
       "root": "2022-07-14 16:46:42 +0300"
     },
@@ -730,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2022-07-15 15:13:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-07-14 23:09:29 +0300"
@@ -742,11 +920,32 @@
     },
     "done": true
   },
-  "blazeandcave:challenges/stack_all_the_items": {
+  "blazeandcave:bacap/weaponry_milestone": {
     "criteria": {
-      "acacia_boat": "2022-07-14 23:13:24 +0300"
+      "root": "2022-07-15 15:14:01 +0300"
     },
     "done": false
+  },
+  "blazeandcave:challenges/stack_all_the_items": {
+    "criteria": {
+      "netherite_sword": "2022-07-15 15:14:00 +0300",
+      "netherite_helmet": "2022-07-15 15:13:57 +0300",
+      "golden_carrot": "2022-07-15 15:14:20 +0300",
+      "netherite_boots": "2022-07-15 15:13:58 +0300",
+      "acacia_boat": "2022-07-14 23:13:24 +0300",
+      "netherite_leggings": "2022-07-15 15:13:58 +0300",
+      "netherite_chestplate": "2022-07-15 15:13:57 +0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_chestplate": "2022-07-15 15:13:57 +0300",
+      "netherite_boots": "2022-07-15 15:13:58 +0300",
+      "netherite_helmet": "2022-07-15 15:13:57 +0300",
+      "netherite_leggings": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
   },
   "blazeandcave:animal/rainbow_collection": {
     "criteria": {
@@ -770,13 +969,17 @@
   },
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
+      "24_carrot_gold": "2022-07-15 15:14:38 +0300",
       "getting_wood": "2022-07-14 23:12:41 +0300",
       "care_for_the_environment": "2022-07-14 23:16:40 +0300",
+      "spring_in_your_step": "2022-07-15 15:09:56 +0300",
+      "time_to_strike": "2022-07-15 15:14:01 +0300",
       "boaty_mcboatface": "2022-07-14 23:13:38 +0300",
       "benchmarking": "2022-07-14 23:13:17 +0300",
       "full_stomach": "2022-07-14 23:45:07 +0300",
       "tarzan": "2022-07-14 01:43:34 +0300",
       "kilometre_walk": "2022-07-14 23:45:44 +0300",
+      "monsters_root": "2022-07-15 15:14:01 +0300",
       "tickle_time": "2022-07-14 23:11:33 +0300",
       "its_where_nutella_comes_from": "2022-07-14 23:53:32 +0300",
       "bamboom": "2022-07-14 23:17:13 +0300",
@@ -784,6 +987,7 @@
       "enchanted_forest": "2022-07-14 23:21:22 +0300",
       "berry_nice": "2022-07-14 23:52:07 +0300",
       "for_you_my_sweet": "2022-07-14 23:20:18 +0300",
+      "nether_say_die": "2022-07-15 15:13:59 +0300",
       "disen_berry_berry_bad": "2022-07-14 23:47:14 +0300",
       "heart_of_darkness": "2022-07-14 23:17:16 +0300",
       "pushed_around": "2022-07-14 23:13:58 +0300",
@@ -793,11 +997,15 @@
       "cow_tipper": "2022-07-14 23:41:14 +0300",
       "building_root": "2022-07-14 23:13:17 +0300",
       "just_keep_swimming": "2022-07-14 23:09:30 +0300",
+      "a_knight_to_nether_forget": "2022-07-15 15:13:59 +0300",
       "animal_root": "2022-07-14 23:11:52 +0300",
       "biomes_root": "2022-07-14 23:11:33 +0300",
       "bacap_root": "2022-07-14 01:42:56 +0300",
       "the_mighty_jungle": "2022-07-14 23:13:58 +0300",
-      "adventure_root": "2022-07-14 23:11:33 +0300"
+      "weaponry_root": "2022-07-15 15:14:01 +0300",
+      "diamonds_are_not_forever": "2022-07-15 15:13:59 +0300",
+      "adventure_root": "2022-07-14 23:11:33 +0300",
+      "sugar_sugar": "2022-07-15 15:11:47 +0300"
     },
     "done": false
   },
@@ -821,9 +1029,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2022-07-14 23:13:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2022-07-15 15:13:58 +0300"
     },
     "done": true
   },
@@ -845,6 +1065,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2022-07-14 23:41:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
     },
     "done": true
   },
@@ -915,15 +1141,21 @@
     },
     "done": true
   },
+  "blazeandcave:farming/disen_berry_berry_bad": {
+    "criteria": {
+      "age3": "2022-07-14 23:47:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2022-07-14 23:53:31 +0300"
     },
     "done": true
   },
-  "blazeandcave:farming/disen_berry_berry_bad": {
+  "minecraft:recipes/decorations/red_candle": {
     "criteria": {
-      "age3": "2022-07-14 23:47:13 +0300"
+      "has_red_dye": "2022-07-15 15:13:17 +0300"
     },
     "done": true
   },
@@ -932,6 +1164,12 @@
       "skeleton": "2022-07-14 23:19:36 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-15 15:13:58 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
@@ -957,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2022-07-15 15:13:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-07-14 23:09:29 +0300"
@@ -965,8 +1209,10 @@
   },
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
+      "24_carrot_gold": "2022-07-15 15:14:38 +0300",
       "full_stomach": "2022-07-14 23:45:07 +0300",
       "berry_nice": "2022-07-14 23:52:07 +0300",
+      "sugar_sugar": "2022-07-15 15:11:47 +0300",
       "its_where_nutella_comes_from": "2022-07-14 23:53:32 +0300",
       "care_for_the_environment": "2022-07-14 23:16:40 +0300",
       "disen_berry_berry_bad": "2022-07-14 23:47:14 +0300"
@@ -979,9 +1225,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brown_dye": {
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
-      "has_cocoa_beans": "2022-07-14 23:53:31 +0300"
+      "has_red_dye": "2022-07-15 15:13:17 +0300"
     },
     "done": true
   },
@@ -991,9 +1237,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2022-07-14 23:53:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2022-07-14 23:12:02 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/24_carrot_gold": {
+    "criteria": {
+      "golden_carrot": "2022-07-15 15:14:38 +0300"
     },
     "done": true
   },

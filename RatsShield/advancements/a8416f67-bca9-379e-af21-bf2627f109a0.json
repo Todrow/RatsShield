@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2022-07-14 23:46:11 +0300"
-    },
-    "done": true
-  },
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
       "stick": "2022-07-14 23:46:11 +0300",
@@ -31,6 +25,12 @@
       "sweet_berries": "2022-07-14 23:48:00 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
   },
   "blazeandcave:biomes/kilometre_walk": {
     "criteria": {
