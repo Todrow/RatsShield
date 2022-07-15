@@ -40,3 +40,11 @@
 
 # Sleeper_buffs are given for every sleeping player
 # Non_sleepers_debuffs are given for every non-sleeping player
+sleeper_buffs:
+  speed:
+    level: 1
+    time: 20
+non_sleeper_debuffs:
+  slow:
+    time: 3
+    level: 1

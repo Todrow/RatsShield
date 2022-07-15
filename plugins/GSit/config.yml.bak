@@ -94,7 +94,7 @@ Options:
     pose-message: true
 
     # Defines whether a player can interact with the environment while posing
-    interact: true
+    interact: false
 
     # Defines whether to reset the time since a player's last rest, which affects his phantom spawn timer
     lay-rest: true
