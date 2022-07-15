@@ -1,0 +1,217 @@
+[23:40:06] [ServerMain/INFO]: Building unoptimized datafixer
+[23:40:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:40:11] [ServerMain/INFO]: Loaded 7 recipes
+[23:40:12] [Server thread/INFO]: Starting minecraft server version 1.19
+[23:40:12] [Server thread/INFO]: Loading properties
+[23:40:13] [Server thread/INFO]: This server is running CraftBukkit version 3551-Spigot-14a2382-9a8e080 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
+[23:40:13] [Server thread/INFO]: Debug logging is disabled
+[23:40:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:40:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:40:13] [Server thread/INFO]: Default game type: SURVIVAL
+[23:40:13] [Server thread/INFO]: Generating keypair
+[23:40:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:40:13] [Server thread/INFO]: Using default channel type
+[23:40:14] [Server thread/INFO]: [GSit] Loading GSit v1.1.2
+[23:40:14] [Server thread/INFO]: [PlasmoVoice] Loading PlasmoVoice v1.0.10
+[23:40:14] [Server thread/INFO]: [BetterSleeping4] Loading BetterSleeping4 v4.0.1
+[23:40:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:40:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:40:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:40:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:40:14] [Server thread/INFO]: Preparing level "RatsShield"
+[23:40:14] [Server thread/INFO]: -------- World Settings For [RatsShield] --------
+[23:40:14] [Server thread/INFO]: View Distance: 10
+[23:40:14] [Server thread/INFO]: Simulation Distance: 10
+[23:40:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:40:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:40:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:40:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:40:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:40:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:40:14] [Server thread/INFO]: Mob Spawn Range: 6
+[23:40:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:40:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[23:40:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:40:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:40:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:40:14] [Server thread/INFO]: Max TNT Explosions: 100
+[23:40:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:40:14] [Server thread/INFO]: -------- World Settings For [RatsShield_nether] --------
+[23:40:14] [Server thread/INFO]: View Distance: 10
+[23:40:14] [Server thread/INFO]: Simulation Distance: 10
+[23:40:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:40:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:40:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:40:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:40:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:40:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:40:14] [Server thread/INFO]: Mob Spawn Range: 6
+[23:40:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:40:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[23:40:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:40:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:40:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:40:14] [Server thread/INFO]: Max TNT Explosions: 100
+[23:40:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:40:14] [Server thread/INFO]: -------- World Settings For [RatsShield_the_end] --------
+[23:40:14] [Server thread/INFO]: View Distance: 10
+[23:40:14] [Server thread/INFO]: Simulation Distance: 10
+[23:40:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:40:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:40:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:40:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:40:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:40:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:40:14] [Server thread/INFO]: Mob Spawn Range: 6
+[23:40:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:40:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:40:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[23:40:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:40:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:40:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:40:14] [Server thread/INFO]: Max TNT Explosions: 100
+[23:40:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:40:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[23:40:18] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[23:40:18] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:40:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:40:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[23:40:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[23:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:40:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:40:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:40:19] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[23:40:19] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[23:40:20] [Server thread/INFO]: Time elapsed: 5242 ms
+[23:40:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:40:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:40:22] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:40:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[23:40:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[23:40:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:40:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:40:23] [Worker-Main-8/INFO]: Preparing spawn area: 75%
+[23:40:23] [Server thread/INFO]: Time elapsed: 3172 ms
+[23:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:40:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:40:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:40:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:40:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:40:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:40:25] [Worker-Main-2/INFO]: Preparing spawn area: 43%
+[23:40:26] [Server thread/INFO]: Time elapsed: 2857 ms
+[23:40:26] [Server thread/INFO]: [GSit] Enabling GSit v1.1.2
+[23:40:26] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m Плагин был включен.[m
+[23:40:27] [Server thread/INFO]: [PlasmoVoice] Enabling PlasmoVoice v1.0.10
+[23:40:27] [Thread-8/INFO]: [PlasmoVoice] Voice UDP server started on /0.0.0.0:25565
+[23:40:27] [Server thread/INFO]: [BetterSleeping4] Enabling BetterSleeping4 v4.0.1
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Is Essentials hooked? false
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Are afk players ignored? true, with a min afk time of 60000
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Are vanished players ignored? true
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Ignoring 1 game modes
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Loading language: ru-ru
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] This server is running on Spigot
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Using chat messaging
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Enabling BetterSleeping in world RatsShield
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Using 'percentage' as sleepers-needed calculator
+[23:40:27] [Server thread/INFO]: [CONFIG] [BetterSleeping4] The percentage is set to 30%
+[23:40:27] [Server thread/WARN]: [BetterSleeping4] §cYour GSit version is incompatible with this version of BetterSleeping, GSit support cannot enable
+[23:40:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:40:27] [Server thread/INFO]: Done (13.898s)! For help, type "help"
+[23:40:38] [User Authenticator #1/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
+[23:40:39] [Server thread/INFO]: _ItsGaMe_ joined the game
+[23:40:39] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:65331] logged in with entity id 146 at ([RatsShield]426.4804004289327, 72.0, -189.95939470212474)
+[23:41:34] [User Authenticator #2/INFO]: UUID of player Todrow is a8416f67-bca9-379e-af21-bf2627f109a0
+[23:41:35] [Server thread/INFO]: Todrow joined the game
+[23:41:35] [Server thread/INFO]: Todrow[/26.174.109.89:60794] logged in with entity id 628 at ([RatsShield]-30.69999998807907, 73.0, 343.4082584969738)
+[23:42:14] [Server thread/INFO]: Todrow hit the ground too hard
+[23:44:18] [Server thread/INFO]: Made _ItsGaMe_ a server operator
+[23:44:21] [Server thread/INFO]: Made Todrow a server operator
+[23:44:22] [Server thread/INFO]: _ItsGaMe_ issued server command: /op @a
+[23:44:28] [Server thread/INFO]: _ItsGaMe_ issued server command: /tps
+[23:44:33] [Server thread/INFO]: Todrow issued server command: /tps
+[23:44:41] [Server thread/INFO]: _ItsGaMe_ issued server command: /deop _ItsGaMe_
+[23:44:41] [Server thread/INFO]: [_ItsGaMe_: Made _ItsGaMe_ no longer a server operator]
+[23:44:43] [Server thread/INFO]: _ItsGaMe_ issued server command: /tps
+[23:44:53] [Server thread/INFO]: Todrow issued server command: /op _ItsGaMe_
+[23:44:53] [Server thread/INFO]: [Todrow: Made _ItsGaMe_ a server operator]
+[23:45:06] [Server thread/INFO]: _ItsGaMe_ issued server command: /effect give _ItsGaMe_ minecraft:saturation 25 25
+[23:45:06] [Server thread/INFO]: [_ItsGaMe_: Applied effect Saturation to _ItsGaMe_]
+[23:47:28] [Server thread/INFO]: Todrow issued server command: /tp _ItsGaMe_
+[23:47:28] [Server thread/INFO]: [Todrow: Teleported Todrow to _ItsGaMe_]
+[23:47:29] [Server thread/WARN]: Todrow moved too quickly! -123.57185721823403,2.0,-1872.531801428795
+[23:51:17] [Server thread/INFO]: _ItsGaMe_ issued server command: /lay
+[23:51:28] [Server thread/INFO]: _ItsGaMe_ issued server command: /sit
+[23:51:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /sit
+[23:51:37] [Server thread/INFO]: Todrow issued server command: /sit
+[23:52:53] [Server thread/INFO]: _ItsGaMe_ issued server command: /lay
+[23:52:59] [Server thread/INFO]: _ItsGaMe_ issued server command: /effect give _ItsGaMe_ minecraft:saturation 25 25
+[23:52:59] [Server thread/INFO]: [_ItsGaMe_: Applied effect Saturation to _ItsGaMe_]
+[23:53:29] [Server thread/INFO]: Todrow hit the ground too hard
+[23:53:36] [Server thread/INFO]: Todrow lost connection: Disconnected
+[23:53:36] [Server thread/INFO]: Todrow left the game
+[23:53:39] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
+[23:53:39] [Server thread/INFO]: _ItsGaMe_ left the game
+[23:53:53] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[23:53:57] [Server thread/INFO]: Stopping server
+[23:53:57] [Server thread/INFO]: [BetterSleeping4] Disabling BetterSleeping4 v4.0.1
+[23:53:57] [Server thread/INFO]: [PlasmoVoice] Disabling PlasmoVoice v1.0.10
+[23:53:57] [Server thread/INFO]: [GSit] Disabling GSit v1.1.2
+[23:53:57] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m Плагин был успешно отключен.[m
+[23:53:57] [Server thread/INFO]: Saving players
+[23:53:57] [Server thread/INFO]: Saving worlds
+[23:53:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield]'/minecraft:overworld
+[23:53:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_nether]'/minecraft:the_nether
+[23:53:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_the_end]'/minecraft:the_end
+[23:53:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (RatsShield): All chunks are saved
+[23:53:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:53:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:53:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

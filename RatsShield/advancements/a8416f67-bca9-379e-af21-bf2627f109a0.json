@@ -1,0 +1,463 @@
+{
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "mangrove_swamp": "2022-07-14 23:14:02 +0300",
+      "savanna": "2022-07-14 23:17:18 +0300",
+      "jungle": "2022-07-14 23:20:56 +0300",
+      "forest": "2022-07-14 23:20:39 +0300",
+      "sparse_jungle": "2022-07-14 23:16:30 +0300",
+      "plains": "2022-07-14 23:15:59 +0300",
+      "taiga": "2022-07-14 23:47:29 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "stick": "2022-07-14 23:46:11 +0300",
+      "wheat_seeds": "2022-07-14 23:46:48 +0300",
+      "cocoa_beans": "2022-07-14 23:44:01 +0300",
+      "sweet_berries": "2022-07-14 23:48:00 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_neg_z": "2022-07-14 23:47:29 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/care_for_the_environment": {
+    "criteria": {
+      "mangrove_propagule": "2022-07-14 23:17:13 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "mangrove_roots": "2022-07-14 23:19:02 +0300",
+      "dirt": "2022-07-14 23:17:43 +0300",
+      "mangrove_propagule": "2022-07-14 23:16:40 +0300",
+      "oak_sapling": "2022-07-14 23:22:12 +0300",
+      "spruce_log": "2022-07-14 23:48:13 +0300",
+      "mud": "2022-07-14 23:46:15 +0300",
+      "jungle_log": "2022-07-14 23:22:15 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2022-07-14 23:14:02 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/its_where_nutella_comes_from": {
+    "criteria": {
+      "cocoa_beans": "2022-07-14 23:44:01 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/getting_wood": {
+    "criteria": {
+      "jungle_log": "2022-07-14 23:22:15 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "entered_nether_portal": "2022-07-14 23:42:17 +0300",
+      "diamond": "2022-07-14 23:42:17 +0300",
+      "entered_end_portal": "2022-07-14 23:42:17 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "forest": "2022-07-14 23:20:39 +0300",
+      "taiga": "2022-07-14 23:47:29 +0300",
+      "plains": "2022-07-14 23:15:59 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/overgrown": {
+    "criteria": {
+      "sparse_jungle": "2022-07-14 23:16:30 +0300",
+      "jungle": "2022-07-14 23:20:56 +0300",
+      "mangrove_swamp": "2022-07-14 23:14:02 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "mushroom_fields": "2022-07-14 23:14:02 +0300",
+      "warm_ocean": "2022-07-14 23:14:02 +0300",
+      "forest": "2022-07-14 23:20:39 +0300",
+      "dark_forest": "2022-07-14 23:14:02 +0300",
+      "plains": "2022-07-14 23:15:59 +0300",
+      "savanna": "2022-07-14 23:17:18 +0300",
+      "meadow": "2022-07-14 23:14:02 +0300",
+      "taiga": "2022-07-14 23:14:02 +0300",
+      "snowy_taiga": "2022-07-14 23:14:02 +0300",
+      "swamp": "2022-07-14 23:14:02 +0300",
+      "jungle": "2022-07-14 23:16:30 +0300",
+      "desert": "2022-07-14 23:14:02 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-07-14 23:22:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/root": {
+    "criteria": {
+      "killed_by_something": "2022-07-14 23:17:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-07-14 23:48:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/heart_of_darkness": {
+    "criteria": {
+      "enter_cave": "2022-07-14 23:18:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-07-14 23:49:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/mining_milestone": {
+    "criteria": {
+      "heart_of_darkness": "2022-07-14 23:18:15 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/the_mighty_jungle": {
+    "criteria": {
+      "jungle": "2022-07-14 23:16:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/statistics_milestone": {
+    "criteria": {
+      "the_first_night": "2022-07-14 23:42:18 +0300",
+      "root": "2022-07-14 23:42:18 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2022-07-14 23:22:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-07-14 23:17:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-07-14 23:48:13 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_first_night": {
+    "criteria": {
+      "trigger": "2022-07-14 23:42:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/warm_feet": {
+    "criteria": {
+      "savanna": "2022-07-14 23:17:18 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:building/spruce_lee": {
+    "criteria": {
+      "spruce_log": "2022-07-14 23:48:13 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "getting_wood": "2022-07-14 23:22:16 +0300",
+      "care_for_the_environment": "2022-07-14 23:17:13 +0300",
+      "aww_man": "2022-07-14 23:17:45 +0300",
+      "tarzan": "2022-07-14 23:14:02 +0300",
+      "kilometre_walk": "2022-07-14 23:47:30 +0300",
+      "its_where_nutella_comes_from": "2022-07-14 23:44:02 +0300",
+      "statistics_root": "2022-07-14 23:42:18 +0300",
+      "berry_nice": "2022-07-14 23:49:41 +0300",
+      "disen_berry_berry_bad": "2022-07-14 23:47:31 +0300",
+      "heart_of_darkness": "2022-07-14 23:18:15 +0300",
+      "the_first_night": "2022-07-14 23:42:18 +0300",
+      "just_keep_swimming": "2022-07-14 23:16:50 +0300",
+      "animal_root": "2022-07-14 23:49:41 +0300",
+      "biomes_root": "2022-07-14 23:17:45 +0300",
+      "bacap_root": "2022-07-14 23:14:03 +0300",
+      "the_mighty_jungle": "2022-07-14 23:16:31 +0300",
+      "adventure_root": "2022-07-14 23:17:45 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "the_mighty_jungle": "2022-07-14 23:16:31 +0300",
+      "tarzan": "2022-07-14 23:14:02 +0300",
+      "kilometre_walk": "2022-07-14 23:47:30 +0300",
+      "just_keep_swimming": "2022-07-14 23:16:50 +0300",
+      "root": "2022-07-14 23:17:45 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2022-07-14 23:49:40 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/animal_milestone": {
+    "criteria": {
+      "root": "2022-07-14 23:49:41 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2022-07-14 23:22:15 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/tarzan": {
+    "criteria": {
+      "enter_vine": "2022-07-14 23:14:02 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/vegetarian": {
+    "criteria": {
+      "sweet_berries": "2022-07-14 23:49:40 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:building/yay_i_got_my_wood": {
+    "criteria": {
+      "jungle_log": "2022-07-14 23:22:15 +0300",
+      "spruce_log": "2022-07-14 23:48:13 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2022-07-14 23:19:02 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/ecologist": {
+    "criteria": {
+      "mangrove_propagule": "2022-07-14 23:17:13 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-07-14 23:44:01 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/disen_berry_berry_bad": {
+    "criteria": {
+      "age1": "2022-07-14 23:47:31 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/death_from_all": {
+    "criteria": {
+      "skeleton": "2022-07-14 23:18:23 +0300",
+      "creeper": "2022-07-14 23:17:44 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "slowness": "2022-07-14 23:43:02 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/farming_milestone": {
+    "criteria": {
+      "berry_nice": "2022-07-14 23:49:41 +0300",
+      "its_where_nutella_comes_from": "2022-07-14 23:44:02 +0300",
+      "care_for_the_environment": "2022-07-14 23:17:13 +0300",
+      "disen_berry_berry_bad": "2022-07-14 23:47:31 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-07-14 23:46:11 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/aww_man": {
+    "criteria": {
+      "creeper": "2022-07-14 23:17:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2022-07-14 23:44:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2022-07-14 23:46:15 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/berry_nice": {
+    "criteria": {
+      "sweet_berries": "2022-07-14 23:49:40 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/monsters_milestone": {
+    "criteria": {
+      "aww_man": "2022-07-14 23:17:45 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:building/elmer_mudd": {
+    "criteria": {
+      "mud": "2022-07-14 23:46:15 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/adventure_milestone": {
+    "criteria": {
+      "root": "2022-07-14 23:17:45 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/just_keep_swimming": {
+    "criteria": {
+      "enter_water": "2022-07-14 23:16:50 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:building/the_jungler": {
+    "criteria": {
+      "jungle_log": "2022-07-14 23:22:15 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
