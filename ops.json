@@ -1,25 +1,7 @@
 [
   {
-    "uuid": "a8416f67-bca9-379e-af21-bf2627f109a0",
-    "name": "Todrow",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "0dc5e94c-e8e8-413b-a1a7-b4c6c931b156",
     "name": "2a",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "5ff14551-2529-307b-a9a0-eb95d6cce89d",
-    "name": "_ItsGaMe_",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "ea32d3df-4ae9-348d-8385-cbdc1708648c",
-    "name": "KisaJi",
     "level": 4,
     "bypassesPlayerLimit": false
   }
