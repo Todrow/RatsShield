@@ -35,6 +35,12 @@
     },
     "done": false
   },
+  "blazeandcave:enchanting/bow_down_to_me": {
+    "criteria": {
+      "power": "2022-07-16 10:18:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2022-07-15 18:27:16 +0300"
@@ -373,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-07-16 10:15:28 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2022-07-15 22:14:28 +0300"
@@ -555,6 +567,7 @@
       "cobblestone": "2022-07-15 18:39:18 +0300",
       "oak_sapling": "2022-07-15 22:41:34 +0300",
       "white_bed": "2022-07-15 18:39:31 +0300",
+      "lily_pad": "2022-07-16 10:15:28 +0300",
       "andesite": "2022-07-15 18:57:50 +0300",
       "dark_oak_log": "2022-07-15 18:39:18 +0300",
       "pointed_dripstone": "2022-07-15 20:59:11 +0300",
@@ -565,6 +578,7 @@
       "obsidian": "2022-07-15 19:44:50 +0300",
       "crafting_table": "2022-07-15 18:39:17 +0300",
       "oak_fence_gate": "2022-07-15 22:50:51 +0300",
+      "tripwire_hook": "2022-07-16 10:15:28 +0300",
       "netherrack": "2022-07-15 19:31:56 +0300",
       "birch_log": "2022-07-15 22:39:03 +0300",
       "light_weighted_pressure_plate": "2022-07-15 22:07:40 +0300",
@@ -773,6 +787,7 @@
       "spring_in_your_step": "2022-07-15 19:01:53 +0300",
       "out_for_a_stroll": "2022-07-16 02:25:31 +0300",
       "luxury_cruise": "2022-07-15 18:34:25 +0300",
+      "level_up": "2022-07-16 05:39:00 +0300",
       "the_first_night": "2022-07-15 18:44:25 +0300",
       "root": "2022-07-15 18:44:25 +0300",
       "sneaky_snitch": "2022-07-15 19:01:59 +0300"
@@ -916,8 +931,15 @@
   },
   "blazeandcave:enchanting/master_enchanter": {
     "criteria": {
+      "unbreaking": "2022-07-16 10:14:31 +0300",
+      "luck_of_the_sea": "2022-07-16 10:43:00 +0300",
+      "sweeping_book": "2022-07-16 10:20:35 +0300",
+      "fire_aspect_book": "2022-07-16 10:20:27 +0300",
       "mending": "2022-07-16 02:20:35 +0300",
-      "vanishing_curse": "2022-07-15 22:07:41 +0300"
+      "power": "2022-07-16 10:18:30 +0300",
+      "piercing_book": "2022-07-16 10:14:33 +0300",
+      "vanishing_curse": "2022-07-15 22:07:41 +0300",
+      "infinity": "2022-07-16 10:14:26 +0300"
     },
     "done": false
   },
@@ -1194,6 +1216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-07-16 10:15:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-15 19:01:31 +0300"
@@ -1313,6 +1341,12 @@
       "hot_stuff": "2022-07-15 19:27:13 +0300"
     },
     "done": false
+  },
+  "blazeandcave:statistics/level_up": {
+    "criteria": {
+      "trigger": "2022-07-16 05:38:59 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
@@ -1594,8 +1628,10 @@
   },
   "blazeandcave:bacap/enchanting_milestone": {
     "criteria": {
+      "to_infinity_and_beyond": "2022-07-16 10:14:27 +0300",
       "unbreakable": "2022-07-16 02:20:35 +0300",
-      "heavy_metal": "2022-07-16 00:16:51 +0300"
+      "heavy_metal": "2022-07-16 00:16:51 +0300",
+      "bow_down_to_me": "2022-07-16 10:18:30 +0300"
     },
     "done": false
   },
@@ -1958,6 +1994,7 @@
       "stone_shovel": "2022-07-15 19:08:18 +0300",
       "dark_oak_boat": "2022-07-15 19:37:26 +0300",
       "golden_boots": "2022-07-15 19:30:13 +0300",
+      "potion": "2022-07-16 10:15:27 +0300",
       "gold_nugget": "2022-07-15 19:33:20 +0300",
       "wooden_pickaxe": "2022-07-15 18:39:18 +0300",
       "diamond_pickaxe": "2022-07-15 23:19:51 +0300",
@@ -1971,8 +2008,10 @@
       "leather_chestplate": "2022-07-15 18:39:18 +0300",
       "lava_bucket": "2022-07-15 19:27:12 +0300",
       "iron_shovel": "2022-07-15 18:34:24 +0300",
+      "cod": "2022-07-16 10:15:24 +0300",
       "golden_sword": "2022-07-15 20:37:25 +0300",
       "spruce_boat": "2022-07-15 18:37:42 +0300",
+      "enchanted_book": "2022-07-16 10:14:33 +0300",
       "iron_horse_armor": "2022-07-15 20:34:58 +0300",
       "coal": "2022-07-15 21:08:21 +0300",
       "leather_helmet": "2022-07-15 21:43:38 +0300",
@@ -2109,7 +2148,8 @@
   },
   "blazeandcave:enchanting/fiery": {
     "criteria": {
-      "fire_protection": "2022-07-15 22:07:41 +0300"
+      "fire_protection": "2022-07-15 22:07:41 +0300",
+      "fire_aspect_book": "2022-07-16 10:20:27 +0300"
     },
     "done": false
   },
@@ -2739,6 +2779,7 @@
   },
   "blazeandcave:farming/a_gluttonous_diet": {
     "criteria": {
+      "raw_cod": "2022-07-16 10:15:24 +0300",
       "carrot": "2022-07-16 02:09:32 +0300"
     },
     "done": false
@@ -2761,6 +2802,7 @@
       "oak_door": "2022-07-15 23:45:26 +0300",
       "oak_trapdoor": "2022-07-15 22:52:51 +0300",
       "tnt": "2022-07-15 18:39:18 +0300",
+      "tripwire_hook": "2022-07-16 10:15:28 +0300",
       "light_weighted_pressure_plate": "2022-07-15 22:07:40 +0300",
       "oak_button": "2022-07-15 22:54:07 +0300",
       "hopper": "2022-07-15 22:48:41 +0300"
@@ -2779,6 +2821,12 @@
       "stone_shovel": "2022-07-15 20:42:21 +0300"
     },
     "done": false
+  },
+  "blazeandcave:enchanting/to_infinity_and_beyond": {
+    "criteria": {
+      "infinity": "2022-07-16 10:14:26 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
@@ -2966,9 +3014,21 @@
     },
     "done": true
   },
+  "blazeandcave:animal/someones_been_here_before": {
+    "criteria": {
+      "leather_boots": "2022-07-16 04:33:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2022-07-15 18:21:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-07-16 10:15:26 +0300"
     },
     "done": true
   },
@@ -3023,6 +3083,7 @@
       "cultural_misunderstandings": "2022-07-15 20:49:10 +0300",
       "suit_up": "2022-07-15 21:43:49 +0300",
       "stone_age": "2022-07-15 18:39:18 +0300",
+      "bow_down_to_me": "2022-07-16 10:18:30 +0300",
       "high_steaks": "2022-07-15 22:50:22 +0300",
       "time_to_mine": "2022-07-15 18:36:36 +0300",
       "ice_bucket_challenge": "2022-07-15 19:44:51 +0300",
@@ -3035,6 +3096,7 @@
       "hot_stuff": "2022-07-15 19:27:13 +0300",
       "monster_hunter": "2022-07-15 18:45:30 +0300",
       "do_you_want_to_trade": "2022-07-15 18:48:13 +0300",
+      "to_infinity_and_beyond": "2022-07-16 10:14:27 +0300",
       "bling_plate": "2022-07-15 22:07:41 +0300",
       "spooky_skeleton": "2022-07-15 22:18:37 +0300",
       "natural_sprinter": "2022-07-15 22:40:07 +0300",
@@ -3047,6 +3109,7 @@
       "witch": "2022-07-16 00:05:10 +0300",
       "black_belt_ninja": "2022-07-15 23:07:46 +0300",
       "space_hopper": "2022-07-15 22:48:42 +0300",
+      "level_up": "2022-07-16 05:39:00 +0300",
       "hot_topic": "2022-07-15 18:41:22 +0300",
       "boaty_mcboatface": "2022-07-15 19:38:45 +0300",
       "your_door_was_locked": "2022-07-15 23:45:27 +0300",
@@ -3110,6 +3173,7 @@
       "torched": "2022-07-15 18:56:00 +0300",
       "i_dont_like_sand": "2022-07-15 18:37:43 +0300",
       "heart_of_darkness": "2022-07-15 18:57:17 +0300",
+      "catching_nemo": "2022-07-16 04:37:43 +0300",
       "pushed_around": "2022-07-15 19:00:30 +0300",
       "basis_of_brewing": "2022-07-15 20:36:16 +0300",
       "its_a_sign": "2022-07-15 23:26:15 +0300",
@@ -3138,6 +3202,7 @@
       "sweet_dreams": "2022-07-15 18:39:47 +0300",
       "animal_root": "2022-07-15 18:34:25 +0300",
       "biomes_root": "2022-07-15 18:36:36 +0300",
+      "someones_been_here_before": "2022-07-16 04:33:42 +0300",
       "bacap_root": "2022-07-15 18:34:25 +0300",
       "weaponry_root": "2022-07-15 18:39:18 +0300",
       "viking": "2022-07-15 18:38:21 +0300",
@@ -3200,12 +3265,14 @@
       "bacon": "2022-07-15 18:49:12 +0300",
       "pork_chop": "2022-07-15 18:56:57 +0300",
       "what_a_piece_of_junk": "2022-07-16 02:17:15 +0300",
+      "someones_been_here_before": "2022-07-16 04:33:42 +0300",
       "so_good": "2022-07-15 21:46:05 +0300",
       "fishy_business": "2022-07-16 00:44:52 +0300",
       "wooly": "2022-07-15 18:38:21 +0300",
       "cow_tipper": "2022-07-15 18:39:36 +0300",
       "tickle_time": "2022-07-15 18:39:18 +0300",
       "root": "2022-07-15 18:34:25 +0300",
+      "catching_nemo": "2022-07-16 04:37:43 +0300",
       "feeling_sheepish": "2022-07-15 18:52:15 +0300"
     },
     "done": false
@@ -3447,6 +3514,7 @@
       "apple": "2022-07-15 22:35:04 +0300",
       "spider_eye": "2022-07-16 00:05:10 +0300",
       "golden_boots": "2022-07-15 19:30:13 +0300",
+      "potion": "2022-07-16 10:15:27 +0300",
       "gold_nugget": "2022-07-15 19:33:07 +0300",
       "wooden_pickaxe": "2022-07-15 18:39:18 +0300",
       "diamond_pickaxe": "2022-07-15 23:19:51 +0300",
@@ -3465,6 +3533,7 @@
       "snowball": "2022-07-15 18:39:18 +0300",
       "nautilus_shell": "2022-07-15 18:35:11 +0300",
       "leather_chestplate": "2022-07-15 18:39:18 +0300",
+      "tropical_fish": "2022-07-16 10:15:25 +0300",
       "iron_ingot": "2022-07-15 18:39:18 +0300",
       "potato": "2022-07-15 18:52:52 +0300",
       "lapis_lazuli": "2022-07-15 19:03:56 +0300",
@@ -3485,12 +3554,15 @@
       "spruce_boat": "2022-07-15 18:37:42 +0300",
       "rabbit_hide": "2022-07-15 18:36:37 +0300",
       "ghast_tear": "2022-07-15 20:13:19 +0300",
+      "enchanted_book": "2022-07-16 10:14:33 +0300",
+      "salmon": "2022-07-16 10:15:26 +0300",
       "iron_horse_armor": "2022-07-15 20:34:58 +0300",
       "coal": "2022-07-15 18:39:18 +0300",
       "leather_helmet": "2022-07-15 21:43:38 +0300",
       "sugar": "2022-07-16 00:05:11 +0300",
       "chicken": "2022-07-15 18:46:14 +0300",
       "bow": "2022-07-16 00:39:38 +0300",
+      "bowl": "2022-07-16 10:15:28 +0300",
       "paper": "2022-07-15 18:48:22 +0300",
       "cooked_cod": "2022-07-15 18:39:18 +0300",
       "iron_pickaxe": "2022-07-15 18:51:46 +0300",
@@ -3603,6 +3675,12 @@
       "has_diamond": "2022-07-15 20:35:02 +0300"
     },
     "done": true
+  },
+  "blazeandcave:animal/master_angler": {
+    "criteria": {
+      "cod": "2022-07-16 10:15:24 +0300"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
@@ -3811,10 +3889,19 @@
     "criteria": {
       "unbreaking": "2022-07-15 22:07:40 +0300",
       "luck_of_the_sea": "2022-07-16 02:20:35 +0300",
+      "sweeping_book": "2022-07-16 10:20:35 +0300",
+      "power_book": "2022-07-16 10:14:33 +0300",
+      "fire_aspect_book": "2022-07-16 10:20:27 +0300",
+      "quick_charge_book": "2022-07-16 10:20:18 +0300",
       "blast_protection": "2022-07-15 22:07:39 +0300",
+      "efficiency_book": "2022-07-16 10:15:50 +0300",
       "fire_protection": "2022-07-15 22:07:41 +0300",
       "mending": "2022-07-16 02:20:35 +0300",
-      "vanishing_curse": "2022-07-15 22:07:41 +0300"
+      "lure": "2022-07-16 10:20:42 +0300",
+      "power": "2022-07-16 10:14:40 +0300",
+      "piercing_book": "2022-07-16 10:14:33 +0300",
+      "vanishing_curse": "2022-07-15 22:07:41 +0300",
+      "infinity": "2022-07-16 10:14:26 +0300"
     },
     "done": false
   },
@@ -3857,6 +3944,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-07-15 22:26:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-07-16 10:15:26 +0300"
     },
     "done": true
   },
@@ -3943,11 +4036,23 @@
   },
   "blazeandcave:challenges/ultimate_enchanter": {
     "criteria": {
+      "lure2": "2022-07-16 10:20:42 +0300",
+      "fire_aspect2_book": "2022-07-16 10:20:27 +0300",
+      "infinity": "2022-07-16 10:14:26 +0300",
+      "sweeping3_book": "2022-07-16 10:20:35 +0300",
+      "power5": "2022-07-16 10:18:30 +0300",
+      "efficiency4_book": "2022-07-16 10:15:50 +0300",
+      "power4": "2022-07-16 10:14:40 +0300",
       "fire_protection2": "2022-07-15 22:07:41 +0300",
       "blast_protection2": "2022-07-15 22:07:39 +0300",
       "luck_of_the_sea2": "2022-07-16 02:20:35 +0300",
+      "luck_of_the_sea3": "2022-07-16 10:43:00 +0300",
       "mending": "2022-07-16 02:20:35 +0300",
       "unbreaking1": "2022-07-15 22:07:40 +0300",
+      "unbreaking3": "2022-07-16 10:14:31 +0300",
+      "power4_book": "2022-07-16 10:14:33 +0300",
+      "quick_charge1_book": "2022-07-16 10:20:18 +0300",
+      "piercing4_book": "2022-07-16 10:14:33 +0300",
       "vanishing_curse": "2022-07-15 22:07:41 +0300"
     },
     "done": false
@@ -4224,6 +4329,12 @@
     },
     "done": false
   },
+  "blazeandcave:animal/catching_nemo": {
+    "criteria": {
+      "tropical_fish": "2022-07-16 04:37:42 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2022-07-15 20:32:28 +0300"
@@ -4286,10 +4397,27 @@
   },
   "blazeandcave:animal/totally_not_an_afk_fisher": {
     "criteria": {
+      "leather_boots": "2022-07-16 04:33:41 +0300",
+      "fishing_rod": "2022-07-16 04:20:57 +0300",
       "pufferfish": "2022-07-16 00:46:39 +0300",
+      "potion": "2022-07-16 05:23:38 +0300",
       "saddle": "2022-07-16 02:05:22 +0300",
+      "rotten_flesh": "2022-07-16 05:26:12 +0300",
+      "string": "2022-07-16 04:58:21 +0300",
+      "tripwire_hook": "2022-07-16 05:26:34 +0300",
+      "salmon": "2022-07-16 04:17:24 +0300",
+      "ink_sac": "2022-07-16 11:38:13 +0300",
+      "bone": "2022-07-16 04:28:18 +0300",
+      "bow": "2022-07-16 05:16:49 +0300",
+      "bowl": "2022-07-16 04:23:14 +0300",
       "leather": "2022-07-16 02:17:15 +0300",
-      "cod": "2022-07-16 00:44:52 +0300"
+      "tropical_fish": "2022-07-16 04:37:42 +0300",
+      "lily_pad": "2022-07-16 04:16:55 +0300",
+      "cod": "2022-07-16 00:44:52 +0300",
+      "stick": "2022-07-16 06:06:16 +0300",
+      "name_tag": "2022-07-16 05:01:59 +0300",
+      "nautilus_shell": "2022-07-16 04:29:02 +0300",
+      "enchanted_book": "2022-07-16 04:34:16 +0300"
     },
     "done": false
   },
