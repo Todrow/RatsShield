@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2022-07-17 13:46:20 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2022-07-15 18:13:50 +0300"
@@ -553,6 +559,7 @@
       "root": "2022-07-16 14:41:40 +0300",
       "sticky_parts": "2022-07-16 21:41:40 +0300",
       "click": "2022-07-16 18:37:20 +0300",
+      "quirky_quartz": "2022-07-17 13:46:20 +0300",
       "repeating_repeater": "2022-07-16 18:57:50 +0300",
       "space_hopper": "2022-07-16 15:37:13 +0300",
       "moving_parts": "2022-07-16 18:35:31 +0300"
@@ -606,6 +613,7 @@
       "seagrass": "2022-07-16 16:56:51 +0300",
       "amethyst_block": "2022-07-15 20:02:50 +0300",
       "magma_block": "2022-07-16 15:32:32 +0300",
+      "soul_sand": "2022-07-17 13:56:04 +0300",
       "chain": "2022-07-16 19:07:30 +0300",
       "iron_block": "2022-07-16 19:13:51 +0300",
       "dark_oak_fence": "2022-07-16 17:09:37 +0300",
@@ -724,6 +732,12 @@
       "zombie": "2022-07-15 19:52:43 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2022-07-17 13:46:20 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -956,10 +970,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-07-15 19:34:10 +0300",
+      "minecraft:blaze": "2022-07-17 13:51:20 +0300",
       "minecraft:skeleton": "2022-07-15 19:49:50 +0300",
+      "minecraft:hoglin": "2022-07-17 13:46:44 +0300",
       "minecraft:spider": "2022-07-15 18:17:30 +0300",
       "minecraft:creeper": "2022-07-16 19:53:47 +0300",
       "minecraft:slime": "2022-07-16 20:12:34 +0300",
+      "minecraft:wither_skeleton": "2022-07-17 13:57:29 +0300",
       "minecraft:zombie": "2022-07-15 19:52:59 +0300",
       "minecraft:drowned": "2022-07-15 18:25:22 +0300"
     },
@@ -1192,6 +1209,18 @@
     },
     "done": true
   },
+  "blazeandcave:nether/the_hunt_begins": {
+    "criteria": {
+      "wither_skeleton": "2022-07-17 13:57:29 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/quirky_quartz": {
+    "criteria": {
+      "quartz": "2022-07-17 13:46:20 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-07-16 14:16:49 +0300"
@@ -1227,6 +1256,12 @@
       "magma_block": "2022-07-16 16:05:21 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-07-17 13:51:20 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
@@ -1332,9 +1367,24 @@
     },
     "done": true
   },
+  "blazeandcave:nether/roadhog": {
+    "criteria": {
+      "hoglin": "2022-07-17 13:46:44 +0300"
+    },
+    "done": true
+  },
   "blazeandcave:building/no_banner_only_color": {
     "criteria": {
       "white_banner": "2022-07-15 19:34:06 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/highway_to_hell": {
+    "criteria": {
+      "skeleton": "2022-07-17 13:54:57 +0300",
+      "hoglin": "2022-07-17 13:46:44 +0300",
+      "wither_skeleton": "2022-07-17 13:57:29 +0300",
+      "blaze": "2022-07-17 13:51:20 +0300"
     },
     "done": false
   },
@@ -1782,7 +1832,9 @@
   },
   "blazeandcave:monsters/dungeon_crawler": {
     "criteria": {
-      "pillager": "2022-07-15 19:34:10 +0300"
+      "wither_skeleton": "2022-07-17 13:57:29 +0300",
+      "pillager": "2022-07-15 19:34:10 +0300",
+      "blaze": "2022-07-17 13:51:20 +0300"
     },
     "done": false
   },
@@ -1951,6 +2003,15 @@
       "trigger": "2022-07-16 17:55:44 +0300"
     },
     "done": true
+  },
+  "blazeandcave:monsters/hell_hunter": {
+    "criteria": {
+      "skeleton": "2022-07-17 13:54:57 +0300",
+      "blaze": "2022-07-17 13:51:20 +0300",
+      "hoglin": "2022-07-17 13:46:44 +0300",
+      "wither_skeleton": "2022-07-17 13:57:29 +0300"
+    },
+    "done": false
   },
   "blazeandcave:statistics/spring_in_your_step": {
     "criteria": {
@@ -2211,6 +2272,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "warped_forest": "2022-07-16 18:10:17 +0300",
+      "crimson_forest": "2022-07-17 13:46:50 +0300",
       "nether_wastes": "2022-07-16 18:10:44 +0300"
     },
     "done": false
@@ -2290,6 +2352,12 @@
   "blazeandcave:bacap/time_to_chop": {
     "criteria": {
       "stone_axe": "2022-07-15 18:36:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2022-07-17 13:56:04 +0300"
     },
     "done": true
   },
@@ -2545,6 +2613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2022-07-17 13:46:20 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2022-07-15 18:40:54 +0300"
@@ -2566,8 +2640,16 @@
   "blazeandcave:bacap/nether_milestone": {
     "criteria": {
       "stem_research": "2022-07-16 23:14:21 +0300",
+      "dont_blink": "2022-07-17 13:46:51 +0300",
       "local_brewery": "2022-07-16 15:35:33 +0300",
+      "nugget_in_a_biscuit": "2022-07-17 13:58:07 +0300",
+      "the_hunt_begins": "2022-07-17 13:57:29 +0300",
+      "into_fire": "2022-07-17 13:51:21 +0300",
+      "roadhog": "2022-07-17 13:46:45 +0300",
+      "quicksand": "2022-07-17 13:56:06 +0300",
+      "twisted": "2022-07-17 13:42:35 +0300",
       "i_am_root": "2022-07-16 18:11:06 +0300",
+      "a_terrible_fortress": "2022-07-17 13:49:03 +0300",
       "root": "2022-07-16 18:10:17 +0300"
     },
     "done": false
@@ -2751,6 +2833,12 @@
     },
     "done": true
   },
+  "blazeandcave:nether/twisted": {
+    "criteria": {
+      "twisting_vines_plant": "2022-07-17 13:42:34 +0300"
+    },
+    "done": true
+  },
   "blazeandcave:animal/delicious_fish": {
     "criteria": {
       "cooked_salmon": "2022-07-15 20:54:28 +0300"
@@ -2806,6 +2894,7 @@
       "plains": "2022-07-16 19:45:24 +0300",
       "old_growth_spruce_taiga": "2022-07-15 20:05:02 +0300",
       "taiga": "2022-07-15 18:35:20 +0300",
+      "crimson_forest": "2022-07-17 13:46:50 +0300",
       "swamp": "2022-07-16 19:48:50 +0300",
       "snowy_taiga": "2022-07-16 19:28:06 +0300",
       "deep_cold_ocean": "2022-07-15 19:19:01 +0300",
@@ -2854,6 +2943,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-07-15 20:07:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2022-07-17 13:46:20 +0300"
     },
     "done": true
   },
@@ -3091,6 +3186,7 @@
       "shipwreck": "2022-07-15 20:09:22 +0300",
       "ruined_portal": "2022-07-15 19:23:36 +0300",
       "village_taiga": "2022-07-15 19:36:20 +0300",
+      "fortress": "2022-07-17 13:49:02 +0300",
       "pillager_outpost": "2022-07-16 19:29:48 +0300"
     },
     "done": false
@@ -3135,6 +3231,7 @@
       "stone_age": "2022-07-15 18:36:29 +0300",
       "moving_parts": "2022-07-16 18:35:31 +0300",
       "iron_belly": "2022-07-15 18:37:37 +0300",
+      "roadhog": "2022-07-17 13:46:45 +0300",
       "high_steaks": "2022-07-15 19:35:08 +0300",
       "time_to_mine": "2022-07-15 18:35:24 +0300",
       "foliage": "2022-07-16 14:30:57 +0300",
@@ -3154,9 +3251,11 @@
       "do_you_want_to_trade": "2022-07-15 19:36:21 +0300",
       "spooky_skeleton": "2022-07-15 19:49:51 +0300",
       "out_of_posts": "2022-07-16 19:29:49 +0300",
+      "nugget_in_a_biscuit": "2022-07-17 13:58:07 +0300",
       "spring_in_your_step": "2022-07-15 19:01:10 +0300",
       "time_to_strike": "2022-07-15 20:07:09 +0300",
       "leveraging_synergy": "2022-07-16 22:06:03 +0300",
+      "into_fire": "2022-07-17 13:51:21 +0300",
       "not_chicken_mcnuggets": "2022-07-15 19:49:00 +0300",
       "black_belt_ninja": "2022-07-16 22:28:20 +0300",
       "farming_root": "2022-07-16 15:35:18 +0300",
@@ -3174,6 +3273,7 @@
       "flying_colors": "2022-07-15 19:34:26 +0300",
       "fossil_fuel": "2022-07-15 18:35:25 +0300",
       "pot_planter": "2022-07-16 17:19:06 +0300",
+      "quicksand": "2022-07-17 13:56:06 +0300",
       "librarian": "2022-07-16 18:35:41 +0300",
       "clay_dough": "2022-07-15 19:53:51 +0300",
       "so_good": "2022-07-15 18:37:27 +0300",
@@ -3203,11 +3303,14 @@
       "pork_chop": "2022-07-15 20:02:47 +0300",
       "diamonds": "2022-07-16 15:22:00 +0300",
       "monsters_root": "2022-07-15 20:07:09 +0300",
+      "quirky_quartz": "2022-07-17 13:46:20 +0300",
       "die_potato": "2022-07-15 20:39:25 +0300",
       "not_today": "2022-07-15 20:38:27 +0300",
+      "a_terrible_fortress": "2022-07-17 13:49:03 +0300",
       "what_a_creep": "2022-07-16 19:53:48 +0300",
       "redstone_root": "2022-07-16 14:41:40 +0300",
       "tickle_time": "2022-07-15 20:16:01 +0300",
+      "dont_blink": "2022-07-17 13:46:51 +0300",
       "gi_geode": "2022-07-16 14:14:40 +0300",
       "atlantis": "2022-07-15 20:12:24 +0300",
       "this_snow_is_snowier": "2022-07-16 15:10:53 +0300",
@@ -3247,6 +3350,7 @@
       "riot_shield": "2022-07-15 19:33:51 +0300",
       "its_a_sign": "2022-07-16 14:37:25 +0300",
       "living_like_kings": "2022-07-15 19:51:27 +0300",
+      "the_hunt_begins": "2022-07-17 13:57:29 +0300",
       "the_first_night": "2022-07-15 18:44:24 +0300",
       "diam_oh_wait_no": "2022-07-16 15:22:01 +0300",
       "sneaky_snitch": "2022-07-15 20:43:55 +0300",
@@ -3271,6 +3375,7 @@
       "point_blank": "2022-07-16 19:38:41 +0300",
       "a_good_start": "2022-07-16 14:12:37 +0300",
       "animal_root": "2022-07-15 18:34:24 +0300",
+      "twisted": "2022-07-17 13:42:35 +0300",
       "biomes_root": "2022-07-15 19:34:10 +0300",
       "map_room": "2022-07-15 20:28:46 +0300",
       "rabbit_season": "2022-07-16 18:15:07 +0300",
@@ -3355,6 +3460,12 @@
     },
     "done": true
   },
+  "blazeandcave:nether/nugget_in_a_biscuit": {
+    "criteria": {
+      "mine_nether_gold_ore": "2022-07-17 13:58:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-07-15 18:42:33 +0300"
@@ -3418,6 +3529,12 @@
   "blazeandcave:statistics/out_for_a_stroll": {
     "criteria": {
       "trigger": "2022-07-16 16:47:47 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/dont_blink": {
+    "criteria": {
+      "weeping_vines": "2022-07-17 13:46:51 +0300"
     },
     "done": true
   },
@@ -3585,6 +3702,7 @@
       "saddle": "2022-07-16 15:07:12 +0300",
       "cooked_beef": "2022-07-15 18:37:45 +0300",
       "iron_axe": "2022-07-15 18:50:18 +0300",
+      "blaze_rod": "2022-07-17 13:51:20 +0300",
       "gold_ingot": "2022-07-15 19:51:27 +0300",
       "wheat_seeds": "2022-07-15 19:53:47 +0300",
       "mutton": "2022-07-16 19:49:14 +0300",
@@ -3654,6 +3772,7 @@
       "fishing_rod": "2022-07-16 15:10:38 +0300",
       "pufferfish": "2022-07-15 19:50:51 +0300",
       "raw_gold": "2022-07-16 15:22:05 +0300",
+      "quartz": "2022-07-17 13:46:20 +0300",
       "raw_copper": "2022-07-15 19:50:27 +0300",
       "diamond": "2022-07-16 15:22:00 +0300",
       "painting": "2022-07-16 14:14:30 +0300",
@@ -3768,6 +3887,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2022-07-16 15:26:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-07-17 13:49:02 +0300"
     },
     "done": true
   },
@@ -3960,6 +4085,7 @@
     "criteria": {
       "cow": "2022-07-16 19:47:10 +0300",
       "pig": "2022-07-16 19:46:54 +0300",
+      "hoglin": "2022-07-17 13:46:44 +0300",
       "sheep": "2022-07-16 19:49:59 +0300"
     },
     "done": false
@@ -4037,6 +4163,12 @@
     },
     "done": true
   },
+  "blazeandcave:nether/quicksand": {
+    "criteria": {
+      "soul_sand": "2022-07-17 13:56:04 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-07-15 20:06:01 +0300"
@@ -4109,6 +4241,12 @@
   "blazeandcave:building/its_original_form": {
     "criteria": {
       "stone": "2022-07-15 20:42:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-07-17 13:51:20 +0300"
     },
     "done": true
   },
@@ -4248,9 +4386,21 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-07-17 13:51:20 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2022-07-15 18:44:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2022-07-17 13:46:20 +0300"
     },
     "done": true
   },
@@ -4429,6 +4579,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2022-07-15 20:28:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-07-17 13:46:20 +0300"
     },
     "done": true
   },

@@ -2191,6 +2191,7 @@
       "the_walls": "2022-07-16 01:36:23 +0300",
       "getting_wood": "2022-07-15 18:48:22 +0300",
       "return_to_sender": "2022-07-15 20:23:54 +0300",
+      "construction_worker": "2022-07-17 14:00:11 +0300",
       "acquire_hardware": "2022-07-15 18:34:25 +0300",
       "half_heart_life": "2022-07-16 15:16:25 +0300",
       "suspicious_looking_stew": "2022-07-16 14:41:57 +0300",
@@ -3088,6 +3089,12 @@
     },
     "done": true
   },
+  "blazeandcave:biomes/construction_worker": {
+    "criteria": {
+      "scaffolding": "2022-07-17 14:00:11 +0300"
+    },
+    "done": true
+  },
   "blazeandcave:farming/the_pie": {
     "criteria": {
       "pumpkin_pie": "2022-07-16 14:27:39 +0300"
@@ -3871,6 +3878,7 @@
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
       "dragon_head": "2022-07-16 18:37:33 +0300",
+      "scaffolding": "2022-07-17 14:00:10 +0300",
       "gold_block": "2022-07-15 18:48:49 +0300",
       "end_stone": "2022-07-16 17:46:57 +0300",
       "cobblestone_wall": "2022-07-16 01:35:58 +0300",
@@ -4589,6 +4597,7 @@
       "kilometre_walk": "2022-07-15 18:34:25 +0300",
       "just_keep_swimming": "2022-07-15 18:35:35 +0300",
       "x_marks_the_spot": "2022-07-15 22:56:53 +0300",
+      "construction_worker": "2022-07-17 14:00:11 +0300",
       "smooth_operator": "2022-07-15 18:43:53 +0300",
       "cargo_carrier": "2022-07-15 23:02:11 +0300",
       "root": "2022-07-15 18:43:29 +0300",
