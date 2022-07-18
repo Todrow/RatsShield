@@ -1,85 +1,916 @@
-[00:06:56] [User Authenticator #34/INFO]: UUID of player Yasha_lava7 is d70223b4-4ff9-3bc1-a386-5ba0cfe2698e
-[00:06:57] [Server thread/INFO]: Yasha_lava7 joined the game
-[00:06:57] [Server thread/INFO]: Yasha_lava7[/26.7.228.219:51868] logged in with entity id 421687 at ([RatsShield]-1305.3468580601243, 78.0, -1449.0051755489044)
-[00:06:59] [Server thread/WARN]: piavochka moved too quickly! -2.3273032697270537,0.0,-10.870388782622058
-[00:11:02] [Async Chat Thread - #10/INFO]: <piavochka> у кого-нибудь железо в избытке?[m
-[00:12:59] [Server thread/INFO]: Yasha_lava7 lost connection: Disconnected
-[00:12:59] [Server thread/INFO]: Yasha_lava7 left the game
-[00:15:00] [Server thread/INFO]: piavochka lost connection: Disconnected
-[00:15:00] [Server thread/INFO]: piavochka left the game
-[00:25:37] [Server thread/INFO]: GMX_x went up in flames
-[00:34:04] [Server thread/INFO]: GMX_x went up in flames
-[00:38:11] [Server thread/INFO]: GMX_x fell off scaffolding
-[00:46:56] [Server thread/INFO]: GMX_x went up in flames
-[00:52:21] [Server thread/INFO]: GMX_x was shot by Skeleton
-[00:54:22] [Server thread/INFO]: GMX_x was shot by Skeleton
-[01:03:18] [Server thread/INFO]: GMX_x has reached the goal [Limbo Walker]
-[01:23:59] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:27:49] [Server thread/INFO]: GMX_x has made the advancement [Mob Hunter]
-[01:29:09] [Server thread/INFO]: GMX_x has made the advancement [Level Up]
-[01:29:25] [Server thread/INFO]: GMX_x has made the advancement [24 Carrot Gold]
-[01:30:08] [Server thread/INFO]: GMX_x has reached the goal [Super Efficient]
-[01:35:10] [Server thread/INFO]: GMX_x has reached the goal [Needle Sharp]
-[01:36:34] [Server thread/INFO]: GMX_x has made the advancement [Fluorescent!]
-[01:37:35] [Server thread/INFO]: GMX_x was slain by Enderman
-[01:37:35] [Server thread/INFO]: GMX_x has made the advancement [The Actual End]
-[01:42:39] [User Authenticator #35/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
-[01:42:39] [Server thread/INFO]: _ItsGaMe_ joined the game
-[01:42:39] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:51702] logged in with entity id 467823 at ([RatsShield]2246.2895696951905, 71.0, -1566.3417415250774)
-[01:50:39] [Server thread/WARN]: GMX_x moved wrongly!
-[01:51:02] [Server thread/INFO]: GMX_x hit the ground too hard
-[01:52:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /ban GMX_x воровство
-[01:52:33] [Server thread/INFO]: [_ItsGaMe_: Banned GMX_x: воровство]
-[01:52:33] [Server thread/INFO]: GMX_x lost connection: You are banned from this server
-[01:52:33] [Server thread/INFO]: GMX_x left the game.
-[01:52:43] [Server thread/WARN]: _ItsGaMe_ moved wrongly!
-[01:52:56] [User Authenticator #36/INFO]: UUID of player GMX_x is 8995b9d7-bb9c-3a40-98fd-15d339232ac0
-[01:52:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2148525f[id=8995b9d7-bb9c-3a40-98fd-15d339232ac0,name=GMX_x,properties={},legacy=false] (/26.190.23.64:56599): You are banned from this server.
-Reason: воровство
-[01:52:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@2148525f[id=8995b9d7-bb9c-3a40-98fd-15d339232ac0,name=GMX_x,properties={},legacy=false] (/26.190.23.64:56599) lost connection: You are banned from this server.
-Reason: воровство
-[01:52:56] [Server thread/INFO]: _ItsGaMe_ issued server command: /pardon GMX_x
-[01:52:56] [Server thread/INFO]: [_ItsGaMe_: Unbanned GMX_x]
-[01:53:28] [User Authenticator #37/INFO]: UUID of player GMX_x is 8995b9d7-bb9c-3a40-98fd-15d339232ac0
-[01:53:28] [Server thread/INFO]: GMX_x joined the game
-[01:53:29] [Server thread/INFO]: GMX_x[/26.190.23.64:56600] logged in with entity id 472289 at ([RatsShield]2249.9853244898513, 71.0, -1566.5940056413403)
-[02:00:32] [Server thread/INFO]: GMX_x fell from a high place
-[02:05:42] [Server thread/INFO]: _ItsGaMe_ issued server command: /datapack
-[02:05:48] [Server thread/INFO]: _ItsGaMe_ issued server command: /datapack list
-[02:10:08] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
-[02:10:08] [Server thread/INFO]: _ItsGaMe_ left the game
-[02:11:20] [User Authenticator #38/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
-[02:11:20] [Server thread/INFO]: _ItsGaMe_ joined the game
-[02:11:20] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:54016] logged in with entity id 481204 at ([RatsShield]2245.7932637475374, 71.875, -1567.4619517096296)
-[02:12:52] [Server thread/INFO]: _ItsGaMe_ issued server command: /crawl
-[02:13:05] [Server thread/INFO]: _ItsGaMe_ issued server command: /cra
-[02:13:07] [Server thread/INFO]: _ItsGaMe_ issued server command: /crawl
-[02:15:29] [Server thread/INFO]: GMX_x was slain by _ItsGaMe_
-[02:26:17] [Server thread/INFO]: GMX_x lost connection: Disconnected
-[02:26:17] [Server thread/INFO]: GMX_x left the game
-[02:31:01] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
-[02:31:01] [Server thread/INFO]: _ItsGaMe_ left the game
-[02:31:08] [User Authenticator #39/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
-[02:31:08] [Server thread/INFO]: _ItsGaMe_ joined the game
-[02:31:08] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:54144] logged in with entity id 494390 at ([RatsShield]2274.564320893306, 62.875, -1451.699999988079)
-[02:32:46] [User Authenticator #40/INFO]: UUID of player GMX_x is 8995b9d7-bb9c-3a40-98fd-15d339232ac0
-[02:32:46] [Server thread/INFO]: GMX_x joined the game
-[02:32:47] [Server thread/INFO]: GMX_x[/26.190.23.64:59112] logged in with entity id 495171 at ([RatsShield]2252.699999988079, 189.0, -1192.9407794269023)
-[02:33:01] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
-[02:33:01] [Server thread/INFO]: _ItsGaMe_ left the game
-[02:33:07] [Server thread/INFO]: Stopping server
-[02:33:07] [Server thread/INFO]: [BetterSleeping4] Disabling BetterSleeping4 v4.0.1
-[02:33:07] [Server thread/INFO]: [PlasmoVoice] Disabling PlasmoVoice v1.0.10
-[02:33:07] [Server thread/INFO]: [GSit] Disabling GSit v1.1.2
-[02:33:07] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m Плагин был успешно отключен.[m
-[02:33:07] [Server thread/INFO]: Saving players
-[02:33:07] [Server thread/INFO]: GMX_x lost connection: Server closed
-[02:33:07] [Server thread/INFO]: GMX_x left the game.
-[02:33:07] [Server thread/INFO]: Saving worlds
-[02:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield]'/minecraft:overworld
-[02:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_nether]'/minecraft:the_nether
-[02:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_the_end]'/minecraft:the_end
-[02:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (RatsShield): All chunks are saved
-[02:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:08:45] [ServerMain/INFO]: Building unoptimized datafixer
+[12:08:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:08:51] [ServerMain/INFO]: Loaded 7 recipes
+[12:08:53] [Server thread/INFO]: Starting minecraft server version 1.19
+[12:08:53] [Server thread/INFO]: Loading properties
+[12:08:53] [Server thread/INFO]: This server is running CraftBukkit version 3551-Spigot-14a2382-9a8e080 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
+[12:08:53] [Server thread/INFO]: Debug logging is disabled
+[12:08:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:08:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:08:54] [Server thread/INFO]: Default game type: SURVIVAL
+[12:08:54] [Server thread/INFO]: Generating keypair
+[12:08:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:08:54] [Server thread/INFO]: Using default channel type
+[12:08:54] [Server thread/INFO]: [GSit] Loading GSit v1.1.2
+[12:08:55] [Server thread/INFO]: [PlasmoVoice] Loading PlasmoVoice v1.0.10
+[12:08:55] [Server thread/INFO]: [BetterSleeping4] Loading BetterSleeping4 v4.0.1
+[12:08:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:08:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:08:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:08:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:08:55] [Server thread/INFO]: Preparing level "RatsShield"
+[12:08:55] [Server thread/INFO]: -------- World Settings For [RatsShield] --------
+[12:08:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:08:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:08:55] [Server thread/INFO]: Simulation Distance: 10
+[12:08:55] [Server thread/INFO]: View Distance: 10
+[12:08:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:08:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:08:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:08:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:08:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:08:55] [Server thread/INFO]: Mob Spawn Range: 6
+[12:08:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:08:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:08:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:08:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:08:55] [Server thread/INFO]: Max TNT Explosions: 100
+[12:08:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:08:55] [Server thread/INFO]: -------- World Settings For [RatsShield_nether] --------
+[12:08:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:08:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:08:55] [Server thread/INFO]: Simulation Distance: 10
+[12:08:55] [Server thread/INFO]: View Distance: 10
+[12:08:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:08:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:08:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:08:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:08:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:08:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:08:55] [Server thread/INFO]: Mob Spawn Range: 6
+[12:08:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:08:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:08:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:08:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:08:55] [Server thread/INFO]: Max TNT Explosions: 100
+[12:08:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:08:55] [Server thread/INFO]: -------- World Settings For [RatsShield_the_end] --------
+[12:08:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:08:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:08:56] [Server thread/INFO]: Simulation Distance: 10
+[12:08:56] [Server thread/INFO]: View Distance: 10
+[12:08:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:08:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:08:56] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:08:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:08:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:08:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:08:56] [Server thread/INFO]: Mob Spawn Range: 6
+[12:08:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:08:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:08:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:08:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:08:56] [Server thread/INFO]: Max TNT Explosions: 100
+[12:08:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:08:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:08:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:08:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:08:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:08:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:08:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:08:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:09:00] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[12:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[12:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 28%
+[12:09:01] [Worker-Main-1/INFO]: Preparing spawn area: 93%
+[12:09:01] [Server thread/INFO]: Time elapsed: 5571 ms
+[12:09:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:09:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:09:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:09:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:09:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:09:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:09:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[12:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[12:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[12:09:06] [Worker-Main-3/INFO]: Preparing spawn area: 58%
+[12:09:06] [Server thread/INFO]: Time elapsed: 4652 ms
+[12:09:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:09:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:09:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:09:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:09:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:09:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:09:08] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[12:09:09] [Worker-Main-3/INFO]: Preparing spawn area: 85%
+[12:09:09] [Server thread/INFO]: Time elapsed: 3361 ms
+[12:09:10] [Server thread/INFO]: [GSit] Enabling GSit v1.1.2
+[12:09:10] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m Плагин был включен.[m
+[12:09:10] [Server thread/INFO]: [PlasmoVoice] Enabling PlasmoVoice v1.0.10
+[12:09:10] [Server thread/INFO]: [BetterSleeping4] Enabling BetterSleeping4 v4.0.1
+[12:09:10] [Thread-9/INFO]: [PlasmoVoice] Voice UDP server started on /0.0.0.0:25565
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Is Essentials hooked? false
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Are afk players ignored? true, with a min afk time of 60000
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Are vanished players ignored? true
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Ignoring 1 game modes
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Loading language: ru-ru
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] This server is running on Spigot
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Using chat messaging
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Enabling BetterSleeping in world RatsShield
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] Using 'percentage' as sleepers-needed calculator
+[12:09:11] [Server thread/INFO]: [CONFIG] [BetterSleeping4] The percentage is set to 30%
+[12:09:11] [Server thread/WARN]: [BetterSleeping4] §cYour GSit version is incompatible with this version of BetterSleeping, GSit support cannot enable
+[12:09:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:09:11] [Server thread/INFO]: Done (16.109s)! For help, type "help"
+[12:09:11] [Server thread/WARN]: Skipping player strafe phase because no player was found
+[12:09:58] [User Authenticator #1/INFO]: UUID of player Gl0balRak is 190b29b6-d449-3b6f-b400-84172bebf227
+[12:09:58] [Server thread/INFO]: Gl0balRak joined the game
+[12:09:58] [Server thread/INFO]: Gl0balRak[/26.53.147.42:64517] logged in with entity id 83 at ([RatsShield]2274.509367911723, 62.875, -1451.892483453751)
+[12:10:36] [User Authenticator #2/INFO]: UUID of player liapplesid is f0ee937e-6eec-3dd6-8d8a-5ece945ce201
+[12:10:38] [Server thread/INFO]: liapplesid joined the game
+[12:10:38] [Server thread/INFO]: liapplesid[/26.168.236.103:11199] logged in with entity id 357 at ([RatsShield]-2176.882293054773, 63.0, -241.66843860589734)
+[12:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8203ms or 164 ticks behind
+[12:10:44] [Server thread/WARN]: Gl0balRak moved too quickly! -5.1139180727577696,4.11038409340221,-9.780876627992939
+[12:13:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8794ms or 175 ticks behind
+[12:14:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43659ms or 873 ticks behind
+[12:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10737ms or 214 ticks behind
+[12:18:59] [User Authenticator #3/INFO]: UUID of player GMX_x is 8995b9d7-bb9c-3a40-98fd-15d339232ac0
+[12:19:00] [Server thread/INFO]: GMX_x joined the game
+[12:19:00] [Server thread/INFO]: GMX_x[/26.190.23.64:63452] logged in with entity id 3506 at ([RatsShield]2052.699999988079, 61.0, -1925.7335839921805)
+[12:19:46] [Async Chat Thread - #0/INFO]: <Gl0balRak> спатть[m
+[12:19:56] [Async Chat Thread - #0/INFO]: <Gl0balRak> а все[m
+[12:22:29] [Async Chat Thread - #1/INFO]: <Gl0balRak> че то он подтормаживает[m
+[12:22:42] [Async Chat Thread - #1/INFO]: <Gl0balRak> я сейчас перекидываю на другой комп[m
+[12:22:48] [Async Chat Thread - #1/INFO]: <Gl0balRak> у него оперативы побольше[m
+[12:22:57] [Async Chat Thread - #1/INFO]: <Gl0balRak> потом перезапустим сервак посмотрим как пойдет[m
+[12:27:09] [Server thread/WARN]: GMX_x moved too quickly! 8.19317617891329,0.872109761794519,12.473931206215866
+[12:27:09] [Server thread/WARN]: liapplesid moved too quickly! -9.39357846410303,1.7508129212553172,-7.986292958784077
+[12:27:33] [User Authenticator #4/INFO]: UUID of player RatKate is 1e2d8fa0-f51e-32f9-adbb-a7b27907b4a5
+[12:27:34] [Server thread/INFO]: RatKate joined the game
+[12:27:34] [Server thread/INFO]: RatKate[/26.63.161.221:57509] logged in with entity id 7766 at ([RatsShield]-2156.298550520857, 64.0, -259.5535048293201)
+[12:29:31] [User Authenticator #5/INFO]: UUID of player piavochka is c247ef88-ca6d-3d9a-90d6-be73f85cbeb9
+[12:29:32] [Server thread/INFO]: piavochka joined the game
+[12:29:32] [Server thread/INFO]: piavochka[/26.64.168.67:63334] logged in with entity id 8884 at ([RatsShield]-2187.6274883635824, 67.0, -249.1357311334093)
+[12:35:43] [Server thread/INFO]: GMX_x lost connection: Disconnected
+[12:35:43] [Server thread/INFO]: GMX_x left the game
+[12:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
+[12:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5862ms or 117 ticks behind
+[12:52:21] [User Authenticator #6/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
+[12:52:23] [Server thread/INFO]: _ItsGaMe_ joined the game
+[12:52:23] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:59434] logged in with entity id 17868 at ([RatsShield]2274.5101347108816, 62.875, -1527.699736908387)
+[12:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7566ms or 151 ticks behind
+[12:52:30] [Server thread/WARN]: liapplesid moved too quickly! 8.533073706335927,0.5292232112077713,-5.296434579561719
+[12:52:57] [User Authenticator #7/INFO]: UUID of player Yasha_lava7 is d70223b4-4ff9-3bc1-a386-5ba0cfe2698e
+[12:52:57] [Server thread/INFO]: Yasha_lava7 joined the game
+[12:52:57] [Server thread/INFO]: Yasha_lava7[/26.7.228.219:63404] logged in with entity id 18252 at ([RatsShield]-1283.8774242718882, 47.0, -1436.0149378848491)
+[12:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5045ms or 100 ticks behind
+[12:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[12:56:50] [Server thread/INFO]: RatKate was slain by liapplesid using [мяуууу]
+[12:57:12] [Server thread/INFO]: piavochka was slain by RatKate
+[13:05:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6245ms or 124 ticks behind
+[13:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5062ms or 101 ticks behind
+[13:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5400ms or 108 ticks behind
+[13:15:36] [Server thread/INFO]: Gl0balRak has reached the goal [Curses!]
+[13:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5799ms or 115 ticks behind
+[13:15:38] [Server thread/INFO]: Gl0balRak has reached the goal [Armor for the masses]
+[13:24:39] [Server thread/WARN]: Yasha_lava7 moved too quickly! 2.095980406605918,0.16779664663324922,9.851683238410146
+[13:24:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[13:31:40] [User Authenticator #8/INFO]: UUID of player KisaJi is ea32d3df-4ae9-348d-8385-cbdc1708648c
+[13:31:41] [Server thread/INFO]: KisaJi joined the game
+[13:31:42] [Server thread/INFO]: KisaJi[/26.19.5.162:49955] logged in with entity id 48724 at ([RatsShield]-2185.300000011921, 64.5625, -238.30000001192093)
+[13:32:35] [Server thread/INFO]: Gl0balRak has reached the goal [Diamond Clad]
+[13:35:08] [Server thread/INFO]: KisaJi lost connection: Disconnected
+[13:35:08] [Server thread/INFO]: KisaJi left the game
+[13:37:18] [Server thread/WARN]: Boat (vehicle of Yasha_lava7) moved too quickly! -15.44499427944902,0.0,28.585991444114825
+[13:37:18] [Server thread/WARN]: Boat (vehicle of Yasha_lava7) moved too quickly! -15.78280091431543,0.0,29.977188231023774
+[13:37:18] [Server thread/WARN]: Boat (vehicle of Yasha_lava7) moved too quickly! -16.079269359371892,0.0,31.3606595565293
+[13:37:18] [Server thread/WARN]: Boat (vehicle of Yasha_lava7) moved too quickly! -16.33436309375361,0.0,32.73499527239619
+[13:37:29] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
+[13:37:30] [Server thread/INFO]: _ItsGaMe_ left the game
+[13:37:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8580ms or 171 ticks behind
+[13:37:48] [Server thread/WARN]: Yasha_lava7 moved too quickly! 0.2523076677912286,-0.003016261509046103,13.42747930228029
+[13:37:52] [Server thread/WARN]: Yasha_lava7 moved too quickly! 2.876355362134973,1.252203340253729,12.539153551430445
+[13:37:54] [Server thread/WARN]: Yasha_lava7 moved too quickly! 1.5992378457835912,1.1767592750642422,9.882874980881297
+[13:37:58] [Server thread/INFO]: Gl0balRak was slain by Enderman
+[13:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6114ms or 122 ticks behind
+[13:39:02] [User Authenticator #9/INFO]: UUID of player KisaJi is ea32d3df-4ae9-348d-8385-cbdc1708648c
+[13:39:03] [Server thread/INFO]: KisaJi joined the game
+[13:39:04] [Server thread/INFO]: KisaJi[/26.19.5.162:63712] logged in with entity id 56482 at ([RatsShield]-2188.914775937529, 67.0, -247.3310572621795)
+[13:39:05] [Server thread/INFO]: Yasha_lava7 lost connection: Disconnected
+[13:39:06] [Server thread/INFO]: Yasha_lava7 left the game
+[13:40:12] [User Authenticator #10/INFO]: UUID of player Yasha_lava7 is d70223b4-4ff9-3bc1-a386-5ba0cfe2698e
+[13:40:14] [Server thread/INFO]: Yasha_lava7 joined the game
+[13:40:14] [Server thread/INFO]: Yasha_lava7[/26.7.228.219:64931] logged in with entity id 57323 at ([RatsShield]-1606.6813621449546, 69.0, -1959.769252924443)
+[13:40:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21063ms or 421 ticks behind
+[13:40:32] [Server thread/WARN]: KisaJi moved too quickly! -8.649670808119936,-0.5,5.356752877138547
+[13:40:32] [Server thread/WARN]: liapplesid moved too quickly! -17.04377082752626,-2.5,15.199591394916354
+[13:41:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5767ms or 115 ticks behind
+[13:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5435ms or 108 ticks behind
+[13:42:34] [Server thread/INFO]: KisaJi has made the advancement [Twisted]
+[13:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15049ms or 300 ticks behind
+[13:42:38] [Server thread/INFO]: liapplesid has made the advancement [Twisted]
+[13:42:57] [Server thread/WARN]: Yasha_lava7 moved too quickly! 17.300299390851933,-0.5002883989199631,45.43749073826848
+[13:42:57] [Server thread/WARN]: KisaJi moved too quickly! 17.03074011486953,-1.0,-18.743659025452573
+[13:42:57] [Server thread/WARN]: liapplesid moved too quickly! 9.019807669559725,-5.0,-2.8406472887353615
+[13:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5563ms or 111 ticks behind
+[13:43:26] [Server thread/WARN]: piavochka moved too quickly! -7.333461421674201,1.0,6.754381384682915
+[13:43:41] [Server thread/WARN]: piavochka moved too quickly! -16.928328195110225,-6.0,17.705962534217292
+[13:44:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16591ms or 331 ticks behind
+[13:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11311ms or 226 ticks behind
+[13:45:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7484ms or 149 ticks behind
+[13:46:02] [Server thread/INFO]: liapplesid has made the advancement [Quirky Quartz]
+[13:46:20] [Server thread/INFO]: KisaJi has made the advancement [Quirky Quartz]
+[13:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5287ms or 105 ticks behind
+[13:46:44] [Server thread/INFO]: KisaJi has made the advancement [Roadhog]
+[13:46:51] [Server thread/INFO]: KisaJi has made the advancement [Don't Blink]
+[13:47:06] [Server thread/INFO]: Yasha_lava7 lost connection: Disconnected
+[13:47:07] [Server thread/INFO]: Yasha_lava7 left the game
+[13:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
+[13:47:10] [Server thread/INFO]: liapplesid has made the advancement [Nugget in a Biscuit]
+[13:47:36] [Server thread/WARN]: piavochka moved too quickly! -10.791020783342447,-1.7055817244196234,1.9732864017552174
+[13:47:36] [Server thread/WARN]: Gl0balRak moved too quickly! 15.287292553646694,-1.66445572885317,25.47582809205778
+[13:47:38] [Server thread/INFO]: liapplesid has made the advancement [Don't Blink]
+[13:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9449ms or 188 ticks behind
+[13:48:18] [Server thread/INFO]: liapplesid has made the advancement [A Terrible Fortress]
+[13:48:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5116ms or 102 ticks behind
+[13:48:57] [Server thread/WARN]: liapplesid moved too quickly! -1.0329575724815925,0.0,19.120738641509973
+[13:48:57] [Server thread/WARN]: piavochka moved too quickly! -8.430270493002809,0.41999998688697815,-5.4661589844312175
+[13:49:02] [Server thread/INFO]: KisaJi has made the advancement [A Terrible Fortress]
+[13:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21315ms or 426 ticks behind
+[13:49:31] [User Authenticator #11/INFO]: UUID of player Yasha_lava7 is d70223b4-4ff9-3bc1-a386-5ba0cfe2698e
+[13:49:32] [Server thread/INFO]: Yasha_lava7 joined the game
+[13:49:33] [Server thread/INFO]: Yasha_lava7[/26.7.228.219:65128] logged in with entity id 66339 at ([RatsShield]-1240.7478994116727, 44.9375, -1437.4354776949624)
+[13:49:38] [Server thread/WARN]: KisaJi moved too quickly! -3.9721085001110623,0.0,-11.060068637929987
+[13:49:52] [Server thread/INFO]: liapplesid has made the advancement [High Temperature Fluid Monster]
+[13:50:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5419ms or 108 ticks behind
+[13:50:27] [Server thread/WARN]: Yasha_lava7 moved too quickly! -10.664473182950132,-1.875,0.27753877488476064
+[13:50:47] [Server thread/INFO]: liapplesid withered away
+[13:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8075ms or 161 ticks behind
+[13:51:07] [Server thread/WARN]: piavochka moved too quickly! 11.040808951939198,1.0,-4.332479915773888
+[13:51:15] [Server thread/WARN]: piavochka moved too quickly! 9.979745871040905,2.252203340253729,-0.5202408366048985
+[13:51:20] [Server thread/INFO]: KisaJi has made the advancement [Into Fire]
+[13:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11909ms or 238 ticks behind
+[13:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8469ms or 169 ticks behind
+[13:52:48] [Server thread/WARN]: liapplesid moved too quickly! -27.992151303455046,6.0,3.761836214767385
+[13:52:48] [Server thread/WARN]: piavochka moved too quickly! 32.174678157355174,-2.0,9.145708700659952
+[13:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7384ms or 147 ticks behind
+[13:53:36] [Server thread/INFO]: liapplesid has made the advancement [So Good]
+[13:53:56] [Server thread/INFO]: Gl0balRak lost connection: Disconnected
+[13:53:57] [Server thread/INFO]: Gl0balRak left the game
+[13:55:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:56:04] [Server thread/INFO]: KisaJi has made the advancement [Quicksand]
+[13:56:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[13:57:16] [Server thread/INFO]: liapplesid has made the advancement [Seeing Stars]
+[13:57:29] [Server thread/INFO]: KisaJi has made the advancement [The Hunt Begins]
+[13:58:06] [Server thread/INFO]: KisaJi has made the advancement [Nugget in a Biscuit]
+[13:58:08] [User Authenticator #12/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
+[13:58:09] [Server thread/INFO]: _ItsGaMe_ joined the game
+[13:58:09] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:54504] logged in with entity id 74291 at ([RatsShield]2274.474633452163, 62.875, -1527.699999988079)
+[13:58:11] [Server thread/WARN]: RatKate moved too quickly! -13.124144182322198,0.31336736114158015,1.8267523940201613
+[13:58:27] [Server thread/INFO]: _ItsGaMe_ issued server command: /gamemode creative
+[13:58:27] [Server thread/INFO]: [_ItsGaMe_: Set own game mode to Creative Mode]
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /gamerule sendCommandFeedback
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /gamerule sendCommandFeedback false
+[13:59:32] [Server thread/INFO]: [_ItsGaMe_: Gamerule sendCommandFeedback is now set to: false]
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1425 2247 46 -1425 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1425 2248 47 -1425 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 48 -1425 2249 48 -1425 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 49 -1425 2251 62 -1425 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 46 -1425 2251 46 -1425 minecraft:gravel replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2251 47 -1425 2251 48 -1425 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1424 2246 46 -1424 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1424 2248 47 -1424 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 48 -1424 2249 48 -1424 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 49 -1424 2251 62 -1409 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1423 2247 48 -1423 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1422 2246 46 -1422 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1422 2251 48 -1422 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1421 2245 46 -1420 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1421 2247 48 -1421 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1420 2251 48 -1416 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1419 2244 46 -1418 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1417 2243 46 -1417 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1416 2242 46 -1416 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1415 2241 46 -1414 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1415 2241 48 -1415 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1414 2247 47 -1414 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 48 -1414 2250 48 -1414 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1413 2240 46 -1412 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1413 2242 47 -1413 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 48 -1413 2251 48 -1413 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1412 2247 48 -1412 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1411 2251 46 -1409 minecraft:gravel replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1411 2242 47 -1411 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 48 -1411 2245 48 -1411 minecraft:water[level=0] replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1410 2241 47 -1410 minecraft:seagrass replace air
+[13:59:32] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 48 -1410 2251 48 -1410 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1409 2240 48 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2241 46 -1413 2251 46 -1412 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2242 46 -1415 2251 46 -1414 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2242 48 -1409 2244 48 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2243 46 -1416 2251 46 -1416 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2243 47 -1415 2245 47 -1415 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2243 48 -1415 2251 48 -1415 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2243 47 -1410 2246 47 -1410 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2244 46 -1417 2251 46 -1417 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2245 46 -1419 2251 46 -1418 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2246 46 -1421 2251 46 -1420 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2246 47 -1413 2251 47 -1413 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2246 48 -1409 2248 48 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2247 46 -1422 2251 46 -1422 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2247 47 -1411 2247 47 -1410 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2247 47 -1409 2248 47 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2248 46 -1424 2251 46 -1423 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2248 47 -1423 2249 47 -1423 minecraft:tall_seagrass[half=lower] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2248 48 -1423 2249 48 -1423 minecraft:tall_seagrass[half=upper] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2248 47 -1415 2248 47 -1414 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2248 47 -1412 2248 47 -1411 minecraft:tall_seagrass[half=lower] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2248 48 -1412 2248 48 -1411 minecraft:tall_seagrass[half=upper] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 47 -1421 2251 48 -1421 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 47 -1415 2251 47 -1415 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 47 -1414 2250 47 -1414 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 47 -1412 2250 47 -1412 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 48 -1412 2251 48 -1411 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 47 -1411 2251 47 -1411 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 47 -1410 2250 47 -1410 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2250 47 -1423 2251 48 -1423 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2250 47 -1409 2251 48 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1425 2239 62 -1425 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1424 2239 61 -1418 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 62 -1424 2239 62 -1419 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 135 -1420 2228 136 -1420 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 10 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 134 -1419 2227 134 -1415 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 20 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2224 135 -1419 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2224, 135, -1419]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 136 -1419 2226 136 -1418 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 137 -1419 2227 137 -1416 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 16 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 62 -1418 2228 62 -1416 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1417 2229 61 -1417 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2224 135 -1417 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2224, 135, -1417]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 136 -1417 2227 136 -1416 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1416 2239 46 -1413 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1416 2239 47 -1410 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 48 -1416 2239 61 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 62 -1415 2239 62 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2224 135 -1415 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2224, 135, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 136 -1415 2226 136 -1415 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 137 -1415 2226 137 -1415 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 131 -1414 2231 133 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 24 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 134 -1414 2228 134 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 5 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 136 -1414 2225 136 -1414 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 137 -1414 2225 137 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 130 -1413 2228 130 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 10 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 131 -1413 2224 131 -1412 minecraft:water[level=3] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 134 -1413 2224 134 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 135 -1413 2225 136 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 137 -1413 2224 137 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1412 2229 46 -1412 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1411 2233 46 -1411 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 131 -1411 2231 133 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 24 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 134 -1411 2225 134 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 136 -1411 2225 136 -1411 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 137 -1411 2225 137 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1410 2238 46 -1410 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 134 -1410 2226 134 -1410 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2224 135 -1410 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2224, 135, -1410]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 136 -1410 2226 136 -1410 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 137 -1410 2226 137 -1410 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 228 -1410 2225 228 -1410 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1409 2226 46 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1409 2238 47 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 134 -1409 2227 134 -1409 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 4 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 136 -1409 2227 136 -1409 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 4 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 137 -1409 2227 137 -1409 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 4 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2224 228 -1409 minecraft:netherrack
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2224, 228, -1409]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2225 138 -1417 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2225, 138, -1417]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2225 131 -1413 2225 131 -1412 minecraft:water[level=4] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2225 228 -1411 2226 228 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2226 135 -1419 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2226, 135, -1419]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2226 135 -1417 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2226, 135, -1417]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2226 135 -1415 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2226, 135, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2226 135 -1414 2227 135 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2226 136 -1414 minecraft:netherrack
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2226, 136, -1414]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2226 131 -1413 2226 131 -1412 minecraft:water[level=5] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2226 228 -1412 2228 228 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2226 135 -1411 2226 136 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2226 135 -1410 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2226, 135, -1410]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2227 136 -1419 2227 136 -1418 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2227 135 -1415 2227 136 -1415 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2227 131 -1413 2227 131 -1412 minecraft:water[level=6] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2227 135 -1410 2227 136 -1410 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 135 -1419 2228 136 -1416 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 125 -1418 2232 125 -1418 minecraft:oak_planks replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 5 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 125 -1417 2229 125 -1417 minecraft:oak_planks replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 125 -1416 2232 125 -1416 minecraft:oak_planks replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 5 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2228 126 -1415 minecraft:chest[facing=north,type=left,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2228, 126, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 126 -1414 2228 126 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 127 -1413 2228 129 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 131 -1413 2228 131 -1412 minecraft:water[level=7] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 228 -1413 2230 228 -1413 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 46 -1409 2237 46 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 135 -1409 2228 136 -1409 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 125 -1419 2231 125 -1419 minecraft:oak_planks replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 62 -1418 2231 62 -1416 minecraft:oak_planks replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 125 -1415 2231 125 -1412 minecraft:oak_planks replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 12 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2229 126 -1415 minecraft:chest[facing=north,type=right,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2229, 126, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 126 -1414 2230 126 -1414 minecraft:hopper[enabled=true,facing=east] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 127 -1414 2231 130 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 12 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 228 -1414 2231 228 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 126 -1413 2231 126 -1412 minecraft:hopper[enabled=true,facing=north] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 127 -1413 2231 127 -1412 minecraft:campfire[facing=south,lit=true,signal_fire=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2229 126 -1411 2231 130 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 15 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2230 126 -1419 minecraft:crafting_table
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2230, 126, -1419]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2230 46 -1417 2230 61 -1417 minecraft:oak_planks replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2230 63 -1417 2230 125 -1417 minecraft:scaffolding[bottom=false,distance=0,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 63 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2231 126 -1419 minecraft:blue_shulker_box[facing=up]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2231, 126, -1419]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2231 46 -1417 2239 61 -1417 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2231 125 -1417 2232 125 -1417 minecraft:oak_planks replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2231 225 -1417 2233 227 -1417 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 9 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2231 228 -1417 2233 228 -1415 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 9 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2231 63 -1416 minecraft:crafting_table
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2231, 63, -1416]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2231 223 -1416 minecraft:netherrack
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2231, 223, -1416]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2231 225 -1416 2231 227 -1416 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2231 126 -1415 minecraft:chest[facing=north,type=left,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2231, 126, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2231 225 -1415 2233 227 -1415 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 9 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2231 126 -1414 minecraft:hopper[enabled=true,facing=north]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2231, 126, -1414]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2231 46 -1412 2239 46 -1412 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2232 62 -1418 2239 62 -1416 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2232 126 -1416 2232 224 -1416 minecraft:scaffolding[bottom=false,distance=0,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 99 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2232 126 -1415 minecraft:chest[facing=north,type=right,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2232, 126, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2232 126 -1414 2232 126 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2232 127 -1413 2232 133 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 14 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2233 225 -1416 2233 227 -1416 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2235 46 -1411 2236 46 -1411 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2238 46 -1411 2239 46 -1411 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2238 46 -1409 2239 46 -1409 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /summon minecraft:boat 2229.377699 62.523264 -1418.687500
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Summoned new Boat]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /summon minecraft:zombie 2229.377699 61.973264 -1418.687500
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Summoned new Zombie]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 46 -1408 2251 46 -1400 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 49 -1408 2251 62 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 48 -1407 2251 48 -1407 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1406 2241 48 -1406 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 48 -1405 2251 48 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1404 2242 47 -1404 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1403 2241 47 -1403 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1402 2251 47 -1402 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2240 47 -1400 2251 47 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2241 48 -1408 2251 48 -1408 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2241 47 -1405 2242 47 -1405 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2241 47 -1401 2243 47 -1401 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2242 47 -1403 2243 47 -1403 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2243 47 -1407 2246 47 -1407 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2243 48 -1406 2251 48 -1406 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2243 47 -1405 2246 47 -1405 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2243 47 -1404 2244 47 -1404 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2244 47 -1403 2251 47 -1403 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2244 47 -1401 2251 47 -1401 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2245 47 -1406 2246 47 -1406 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2245 47 -1404 2247 47 -1404 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2246 47 -1408 2249 47 -1408 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2247 47 -1406 2248 47 -1406 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2248 47 -1407 2251 47 -1407 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2248 47 -1405 2251 47 -1405 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2249 47 -1406 2251 47 -1406 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1408 2229 47 -1408 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 48 -1408 2239 48 -1405 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 49 -1408 2239 62 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 134 -1408 2227 134 -1406 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 12 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2224 135 -1408 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2224, 135, -1408]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2224 136 -1408 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2224, 136, -1408]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 137 -1408 2227 137 -1406 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 12 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1407 2226 46 -1407 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1407 2239 47 -1407 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 136 -1407 2227 136 -1406 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1406 2236 46 -1406 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1406 2238 47 -1406 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2224 135 -1406 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2224, 135, -1406]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1405 2235 46 -1405 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1405 2239 47 -1405 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 135 -1405 2228 136 -1405 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 10 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1404 2234 46 -1403 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1404 2237 48 -1404 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1403 2239 48 -1403 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1402 2233 46 -1402 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1402 2235 48 -1402 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1401 2234 47 -1401 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 48 -1401 2239 48 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 46 -1400 2225 46 -1400 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2224 47 -1400 2233 47 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2225 136 -1408 2226 136 -1408 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2225 46 -1401 2233 46 -1401 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2226 46 -1408 2229 46 -1408 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2226 135 -1408 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2226, 135, -1408]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2226 135 -1406 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2226, 135, -1406]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2226 46 -1400 2232 46 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2227 136 -1408 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2227, 136, -1408]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 135 -1408 2228 136 -1406 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2228 46 -1407 2236 46 -1407 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2230 46 -1408 2231 46 -1408 minecraft:tall_seagrass[half=lower] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2230 47 -1408 2231 47 -1408 minecraft:tall_seagrass[half=upper] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2232 46 -1408 2237 46 -1408 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2232 47 -1408 2238 47 -1408 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2233 46 -1400 2239 46 -1400 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2234 46 -1402 2239 46 -1401 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2235 46 -1404 2239 46 -1403 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2235 47 -1401 2236 47 -1401 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2236 46 -1405 2239 46 -1405 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2237 46 -1407 2239 46 -1406 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2237 47 -1402 2238 47 -1402 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2237 48 -1402 2239 48 -1402 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2237 47 -1401 2237 47 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2238 46 -1408 2239 46 -1408 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2238 47 -1401 2239 47 -1400 minecraft:seagrass replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2239 47 -1404 2239 48 -1404 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 46 -1425 2217 46 -1425 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 47 -1425 2216 48 -1425 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 49 -1425 2223 62 -1425 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 46 -1425 2223 48 -1425 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 46 -1424 2217 46 -1424 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 47 -1424 2223 47 -1424 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 48 -1424 2223 62 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 46 -1423 2216 46 -1420 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 47 -1423 2216 47 -1423 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 47 -1422 2218 47 -1422 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 47 -1421 2223 47 -1420 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 46 -1419 2217 47 -1419 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 46 -1418 2223 47 -1409 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2216 135 -1420 2223 136 -1420 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 16 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2216 135 -1419 2216 136 -1416 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2216 135 -1409 2216 136 -1409 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 46 -1422 2218 46 -1422 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 46 -1421 2223 46 -1421 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 46 -1420 2218 46 -1420 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 134 -1419 2223 134 -1416 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 28 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 136 -1419 2218 136 -1416 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 137 -1419 2223 137 -1416 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 28 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 135 -1415 2217 136 -1415 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 135 -1410 2217 136 -1410 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 134 -1409 2223 134 -1409 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 7 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 136 -1409 2218 136 -1409 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 137 -1409 2223 137 -1409 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 7 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 46 -1423 2221 46 -1423 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 47 -1423 2223 47 -1423 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2218 135 -1419 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2218, 135, -1419]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2218 135 -1417 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2218, 135, -1417]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 134 -1415 2223 134 -1415 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2218 135 -1415 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2218, 135, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 136 -1415 2222 136 -1415 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 5 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 137 -1415 2223 137 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 12 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 135 -1414 2218 136 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 135 -1411 2218 136 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 137 -1411 2223 137 -1410 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 12 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 134 -1410 2223 134 -1410 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2218 135 -1410 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2218, 135, -1410]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2218 136 -1410 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2218, 136, -1410]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 46 -1419 2223 47 -1419 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 136 -1419 2219 136 -1416 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 4 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 134 -1414 2223 134 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 5 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2219 136 -1414 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2219, 136, -1414]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 135 -1413 2220 136 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 137 -1413 2223 137 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 10 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 134 -1411 2223 134 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 5 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2219 136 -1411 minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2219, 136, -1411]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2219 138 -1411 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2219, 138, -1411]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 136 -1410 2223 136 -1409 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 10 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2219 138 -1409 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2219, 138, -1409]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 46 -1424 2223 46 -1424 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 46 -1420 2223 46 -1420 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 135 -1419 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 135, -1419]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 136 -1419 2223 136 -1418 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 135 -1417 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 135, -1417]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 136 -1417 2222 136 -1416 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 138 -1417 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 138, -1417]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 135 -1415 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 135, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 131 -1414 2223 133 -1414 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 12 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 136 -1414 minecraft:oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 136, -1414]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 130 -1413 2223 130 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 131 -1413 2220 134 -1412 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 8 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 138 -1412 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 138, -1412]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 131 -1411 2223 133 -1411 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 12 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 136 -1411 2223 136 -1411 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 4 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 135 -1410 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 135, -1410]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2221 136 -1414 2222 136 -1414 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2221 131 -1413 2221 131 -1412 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2221 134 -1413 2223 134 -1413 minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2221 134 -1412 2223 134 -1412 minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2221 138 -1409 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2221, 138, -1409]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2222 46 -1422 2223 47 -1422 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 135 -1419 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 135, -1419]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 135 -1417 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 135, -1417]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 138 -1416 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 138, -1416]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 133 -1415 minecraft:netherrack
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 133, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 135 -1415 minecraft:oak_button[face=floor,facing=north,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 135, -1415]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2222 131 -1413 2222 131 -1412 minecraft:water[level=1] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 138 -1412 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 138, -1412]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 135 -1410 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 135, -1410]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2223 136 -1417 2223 136 -1414 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 4 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2223 131 -1413 2223 131 -1412 minecraft:water[level=2] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2223 138 -1411 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2223, 138, -1411]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2223 138 -1409 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2223, 138, -1409]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2223 228 -1409 minecraft:netherrack
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2223, 228, -1409]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /summon minecraft:drowned 2223.172866 56.364703 -1422.873829
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Summoned new Drowned]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /summon minecraft:cat 2221.868869 135.000000 -1418.700000
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Summoned new Cat]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /summon minecraft:spider 2220.500000 135.000000 -1417.500000
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Summoned new Spider]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 46 -1408 2223 46 -1402 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 47 -1408 2223 47 -1401 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 48 -1408 2223 62 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 46 -1401 2220 46 -1401 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 46 -1400 2215 46 -1400 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2214 228 -1400 2215 228 -1400 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2215 228 -1401 2216 228 -1401 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2216 135 -1408 2216 136 -1406 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 6 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2216 135 -1405 2223 136 -1405 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 16 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2216 228 -1402 2217 228 -1402 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2216 47 -1400 2223 47 -1400 minecraft:water[level=0] replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 134 -1408 2223 134 -1406 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 21 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 136 -1408 2218 136 -1408 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 137 -1408 2223 137 -1406 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 21 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 136 -1407 2217 136 -1406 minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2217 134 -1405 minecraft:netherrack
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2217, 134, -1405]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 228 -1403 2218 228 -1403 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2217 46 -1400 2223 46 -1400 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2218 135 -1408 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2218, 135, -1408]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 136 -1407 2218 136 -1406 minecraft:oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2218 135 -1406 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2218, 135, -1406]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2218 228 -1404 2219 228 -1404 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 136 -1408 2223 136 -1406 minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false] replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 15 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2219 228 -1405 2220 228 -1405 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 135 -1408 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 135, -1408]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2220 135 -1406 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2220, 135, -1406]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2220 228 -1406 2221 228 -1406 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 2 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2221 138 -1408 minecraft:torch
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2221, 138, -1408]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2221 228 -1408 2223 228 -1408 minecraft:netherrack replace air
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Successfully filled 3 blocks]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2221 228 -1407 minecraft:netherrack
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2221, 228, -1407]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /fill 2221 46 -1401 2223 46 -1401 minecraft:gravel replace air
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 135 -1408 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 135, -1408]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /setblock 2222 135 -1406 minecraft:oak_button[face=floor,facing=south,powered=false]
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Changed the block at 2222, 135, -1406]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /summon minecraft:cat 2222.696965 135.000000 -1405.300000
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Summoned new Cat]
+[13:59:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /gamerule sendCommandFeedback true
+[13:59:33] [Server thread/INFO]: [_ItsGaMe_: Gamerule sendCommandFeedback is now set to: true]
+[14:01:07] [Async Chat Thread - #2/INFO]: <_ItsGaMe_> Все, приготовьте к рестарту[m
+[14:01:10] [Server thread/INFO]: Yasha_lava7 lost connection: Disconnected
+[14:01:10] [Server thread/INFO]: Yasha_lava7 left the game
+[14:01:14] [Server thread/INFO]: RatKate lost connection: Disconnected
+[14:01:14] [Server thread/INFO]: RatKate left the game
+[14:01:17] [Server thread/INFO]: piavochka lost connection: Disconnected
+[14:01:17] [Server thread/INFO]: piavochka left the game
+[14:01:29] [Server thread/INFO]: liapplesid lost connection: Disconnected
+[14:01:29] [Server thread/INFO]: liapplesid left the game
+[14:01:38] [Server thread/INFO]: KisaJi lost connection: Disconnected
+[14:01:38] [Server thread/INFO]: KisaJi left the game
+[14:01:54] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
+[14:01:54] [Server thread/INFO]: _ItsGaMe_ left the game
+[14:02:06] [Server thread/INFO]: Stopping server
+[14:02:06] [Server thread/INFO]: [BetterSleeping4] Disabling BetterSleeping4 v4.0.1
+[14:02:06] [Server thread/INFO]: [PlasmoVoice] Disabling PlasmoVoice v1.0.10
+[14:02:06] [Server thread/INFO]: [GSit] Disabling GSit v1.1.2
+[14:02:06] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m Плагин был успешно отключен.[m
+[14:02:06] [Server thread/INFO]: Saving players
+[14:02:06] [Server thread/INFO]: Saving worlds
+[14:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield]'/minecraft:overworld
+[14:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_nether]'/minecraft:the_nether
+[14:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_the_end]'/minecraft:the_end
+[14:02:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (RatsShield): All chunks are saved
+[14:02:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:02:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:02:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
