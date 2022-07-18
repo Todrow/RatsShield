@@ -1,85 +1,48 @@
-[00:06:56] [User Authenticator #34/INFO]: UUID of player Yasha_lava7 is d70223b4-4ff9-3bc1-a386-5ba0cfe2698e
-[00:06:57] [Server thread/INFO]: Yasha_lava7 joined the game
-[00:06:57] [Server thread/INFO]: Yasha_lava7[/26.7.228.219:51868] logged in with entity id 421687 at ([RatsShield]-1305.3468580601243, 78.0, -1449.0051755489044)
-[00:06:59] [Server thread/WARN]: piavochka moved too quickly! -2.3273032697270537,0.0,-10.870388782622058
-[00:11:02] [Async Chat Thread - #10/INFO]: <piavochka> у кого-нибудь железо в избытке?[m
-[00:12:59] [Server thread/INFO]: Yasha_lava7 lost connection: Disconnected
-[00:12:59] [Server thread/INFO]: Yasha_lava7 left the game
-[00:15:00] [Server thread/INFO]: piavochka lost connection: Disconnected
-[00:15:00] [Server thread/INFO]: piavochka left the game
-[00:25:37] [Server thread/INFO]: GMX_x went up in flames
-[00:34:04] [Server thread/INFO]: GMX_x went up in flames
-[00:38:11] [Server thread/INFO]: GMX_x fell off scaffolding
-[00:46:56] [Server thread/INFO]: GMX_x went up in flames
-[00:52:21] [Server thread/INFO]: GMX_x was shot by Skeleton
-[00:54:22] [Server thread/INFO]: GMX_x was shot by Skeleton
-[01:03:18] [Server thread/INFO]: GMX_x has reached the goal [Limbo Walker]
-[01:23:59] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:27:49] [Server thread/INFO]: GMX_x has made the advancement [Mob Hunter]
-[01:29:09] [Server thread/INFO]: GMX_x has made the advancement [Level Up]
-[01:29:25] [Server thread/INFO]: GMX_x has made the advancement [24 Carrot Gold]
-[01:30:08] [Server thread/INFO]: GMX_x has reached the goal [Super Efficient]
-[01:35:10] [Server thread/INFO]: GMX_x has reached the goal [Needle Sharp]
-[01:36:34] [Server thread/INFO]: GMX_x has made the advancement [Fluorescent!]
-[01:37:35] [Server thread/INFO]: GMX_x was slain by Enderman
-[01:37:35] [Server thread/INFO]: GMX_x has made the advancement [The Actual End]
-[01:42:39] [User Authenticator #35/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
-[01:42:39] [Server thread/INFO]: _ItsGaMe_ joined the game
-[01:42:39] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:51702] logged in with entity id 467823 at ([RatsShield]2246.2895696951905, 71.0, -1566.3417415250774)
-[01:50:39] [Server thread/WARN]: GMX_x moved wrongly!
-[01:51:02] [Server thread/INFO]: GMX_x hit the ground too hard
-[01:52:33] [Server thread/INFO]: _ItsGaMe_ issued server command: /ban GMX_x воровство
-[01:52:33] [Server thread/INFO]: [_ItsGaMe_: Banned GMX_x: воровство]
-[01:52:33] [Server thread/INFO]: GMX_x lost connection: You are banned from this server
-[01:52:33] [Server thread/INFO]: GMX_x left the game.
-[01:52:43] [Server thread/WARN]: _ItsGaMe_ moved wrongly!
-[01:52:56] [User Authenticator #36/INFO]: UUID of player GMX_x is 8995b9d7-bb9c-3a40-98fd-15d339232ac0
-[01:52:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2148525f[id=8995b9d7-bb9c-3a40-98fd-15d339232ac0,name=GMX_x,properties={},legacy=false] (/26.190.23.64:56599): You are banned from this server.
-Reason: воровство
-[01:52:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@2148525f[id=8995b9d7-bb9c-3a40-98fd-15d339232ac0,name=GMX_x,properties={},legacy=false] (/26.190.23.64:56599) lost connection: You are banned from this server.
-Reason: воровство
-[01:52:56] [Server thread/INFO]: _ItsGaMe_ issued server command: /pardon GMX_x
-[01:52:56] [Server thread/INFO]: [_ItsGaMe_: Unbanned GMX_x]
-[01:53:28] [User Authenticator #37/INFO]: UUID of player GMX_x is 8995b9d7-bb9c-3a40-98fd-15d339232ac0
-[01:53:28] [Server thread/INFO]: GMX_x joined the game
-[01:53:29] [Server thread/INFO]: GMX_x[/26.190.23.64:56600] logged in with entity id 472289 at ([RatsShield]2249.9853244898513, 71.0, -1566.5940056413403)
-[02:00:32] [Server thread/INFO]: GMX_x fell from a high place
-[02:05:42] [Server thread/INFO]: _ItsGaMe_ issued server command: /datapack
-[02:05:48] [Server thread/INFO]: _ItsGaMe_ issued server command: /datapack list
-[02:10:08] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
-[02:10:08] [Server thread/INFO]: _ItsGaMe_ left the game
-[02:11:20] [User Authenticator #38/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
-[02:11:20] [Server thread/INFO]: _ItsGaMe_ joined the game
-[02:11:20] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:54016] logged in with entity id 481204 at ([RatsShield]2245.7932637475374, 71.875, -1567.4619517096296)
-[02:12:52] [Server thread/INFO]: _ItsGaMe_ issued server command: /crawl
-[02:13:05] [Server thread/INFO]: _ItsGaMe_ issued server command: /cra
-[02:13:07] [Server thread/INFO]: _ItsGaMe_ issued server command: /crawl
-[02:15:29] [Server thread/INFO]: GMX_x was slain by _ItsGaMe_
-[02:26:17] [Server thread/INFO]: GMX_x lost connection: Disconnected
-[02:26:17] [Server thread/INFO]: GMX_x left the game
-[02:31:01] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
-[02:31:01] [Server thread/INFO]: _ItsGaMe_ left the game
-[02:31:08] [User Authenticator #39/INFO]: UUID of player _ItsGaMe_ is 5ff14551-2529-307b-a9a0-eb95d6cce89d
-[02:31:08] [Server thread/INFO]: _ItsGaMe_ joined the game
-[02:31:08] [Server thread/INFO]: _ItsGaMe_[/26.10.225.32:54144] logged in with entity id 494390 at ([RatsShield]2274.564320893306, 62.875, -1451.699999988079)
-[02:32:46] [User Authenticator #40/INFO]: UUID of player GMX_x is 8995b9d7-bb9c-3a40-98fd-15d339232ac0
-[02:32:46] [Server thread/INFO]: GMX_x joined the game
-[02:32:47] [Server thread/INFO]: GMX_x[/26.190.23.64:59112] logged in with entity id 495171 at ([RatsShield]2252.699999988079, 189.0, -1192.9407794269023)
-[02:33:01] [Server thread/INFO]: _ItsGaMe_ lost connection: Disconnected
-[02:33:01] [Server thread/INFO]: _ItsGaMe_ left the game
-[02:33:07] [Server thread/INFO]: Stopping server
-[02:33:07] [Server thread/INFO]: [BetterSleeping4] Disabling BetterSleeping4 v4.0.1
-[02:33:07] [Server thread/INFO]: [PlasmoVoice] Disabling PlasmoVoice v1.0.10
-[02:33:07] [Server thread/INFO]: [GSit] Disabling GSit v1.1.2
-[02:33:07] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m Плагин был успешно отключен.[m
-[02:33:07] [Server thread/INFO]: Saving players
-[02:33:07] [Server thread/INFO]: GMX_x lost connection: Server closed
-[02:33:07] [Server thread/INFO]: GMX_x left the game.
-[02:33:07] [Server thread/INFO]: Saving worlds
-[02:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield]'/minecraft:overworld
-[02:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_nether]'/minecraft:the_nether
-[02:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_the_end]'/minecraft:the_end
-[02:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (RatsShield): All chunks are saved
-[02:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:38] [Server thread/INFO]: piavochka lost connection: Disconnected
+[00:00:38] [Server thread/INFO]: piavochka left the game
+[00:04:19] [Server thread/INFO]: _ItsGaMe_ fell out of the world
+[00:05:13] [Server thread/INFO]: GMX_x was slain by _ItsGaMe_ using [Удара по ебалу]
+[00:12:53] [Async Chat Thread - #49/INFO]: <Yasha_lava7> я афк[m
+[00:13:06] [Async Chat Thread - #49/INFO]: <Yasha_lava7> позуй[m
+[00:13:13] [Async Chat Thread - #49/INFO]: <Yasha_lava7> я хочу увидеть[m
+[00:14:34] [Async Chat Thread - #50/INFO]: <Yasha_lava7> отпусти[m
+[00:16:35] [Async Chat Thread - #51/INFO]: <Yasha_lava7> а где[m
+[00:17:04] [Async Chat Thread - #51/INFO]: <Yasha_lava7> чё[m
+[00:18:56] [Server thread/INFO]: Todrow has made the advancement [Me Love Cookie]
+[00:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[00:24:07] [Server thread/WARN]: GMX_x moved wrongly!
+[00:27:17] [Server thread/INFO]: RatKate lost connection: Disconnected
+[00:27:17] [Server thread/INFO]: RatKate left the game
+[00:43:33] [Server thread/INFO]: Todrow has reached the goal [Hot Tourist Destination]
+[01:07:24] [Server thread/INFO]: Todrow has made the advancement [Tickle Time!]
+[01:07:24] [Server thread/INFO]: Todrow has reached the goal [Poultry Boy]
+[01:07:24] [Server thread/INFO]: Todrow has reached the goal [Legend of Hell Chicken Riders]
+[01:08:09] [Server thread/INFO]: Todrow has made the advancement [So Good]
+[01:12:05] [Server thread/INFO]: Todrow has completed the challenge [Kill or be Killed]
+[01:14:02] [Server thread/INFO]: _ItsGaMe_ issued server command: /save-all
+[01:14:02] [Server thread/INFO]: [_ItsGaMe_: Saved the game]
+[01:14:09] [Server thread/INFO]: _ItsGaMe_ issued server command: /save-on
+[01:14:18] [Server thread/INFO]: _ItsGaMe_ issued server command: /stop
+[01:14:18] [Server thread/INFO]: [_ItsGaMe_: Stopping the server]
+[01:14:18] [Server thread/INFO]: Stopping server
+[01:14:18] [Server thread/INFO]: [BetterSleeping4] Disabling BetterSleeping4 v4.0.1
+[01:14:18] [Server thread/INFO]: [PlasmoVoice] Disabling PlasmoVoice v1.0.10
+[01:14:18] [Server thread/INFO]: [GSit] Disabling GSit v1.1.2
+[01:14:18] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m Плагин был успешно отключен.[m
+[01:14:18] [Server thread/INFO]: Saving players
+[01:14:18] [Server thread/INFO]: Yasha_lava7 lost connection: Server closed
+[01:14:18] [Server thread/INFO]: Yasha_lava7 left the game.
+[01:14:18] [Server thread/INFO]: Todrow lost connection: Server closed
+[01:14:18] [Server thread/INFO]: Todrow left the game.
+[01:14:18] [Server thread/INFO]: _ItsGaMe_ lost connection: Server closed
+[01:14:18] [Server thread/INFO]: _ItsGaMe_ left the game.
+[01:14:18] [Server thread/INFO]: GMX_x lost connection: Server closed
+[01:14:18] [Server thread/INFO]: GMX_x left the game.
+[01:14:19] [Server thread/INFO]: Saving worlds
+[01:14:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield]'/minecraft:overworld
+[01:14:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_nether]'/minecraft:the_nether
+[01:14:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[RatsShield_the_end]'/minecraft:the_end
+[01:14:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (RatsShield): All chunks are saved
+[01:14:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:14:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:14:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
